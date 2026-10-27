@@ -1,0 +1,59 @@
+anlaegsnr,beskrivelse,anlaegsgruppe,anskaffet_dato,anskaffelsessum_dkk,leverandoer,finansiering,levetid_aar,afhaendet_dato,salgspris_dkk,akk_afskrivning_primo_2021_dkk
+L01,Laserskærer 1 - TRUMPF TruLaser 3030 (CO2),Produktionsanlæg og maskiner,2015-03-01,4850000,,Eje,10,,,2788750.0
+L02,Fiberlaser - TRUMPF TruLaser 3040 fiber,Produktionsanlæg og maskiner,2022-09-12,7400000,TechLease Danmark A/S,Finansiel leasing,10,,,0.0
+B01,Kantpresse 100 t - Amada HFE 100-3,Produktionsanlæg og maskiner,2008-05-01,1150000,,Eje,10,,,1150000.0
+B02,Kantpresse 170 t - Amada HFE 170-3,Produktionsanlæg og maskiner,2013-09-01,1480000,,Eje,10,,,1073000.0
+B03,Kantpresse 220 t - Amada HFE 220-4,Produktionsanlæg og maskiner,2018-02-01,1920000,,Eje,10,,,544000.0
+B04,Kantpresse 130 t ATC - Amada HG-1303 ATC,Produktionsanlæg og maskiner,2025-04-07,3650000,Nordisk Maskinhandel A/S,Eje,10,,,0.0
+R01,Svejserobot - Yaskawa Motoman AR1440 celle,Produktionsanlæg og maskiner,2019-06-01,1650000,,Eje,10,,,247500.0
+R02,Svejserobot 2 - Yaskawa celle,Produktionsanlæg og maskiner,2025-09-15,1890000,Nordisk Maskinhandel A/S,Eje,10,,,0.0
+C01,Bearbejdningscenter 1 - Mazak VCN-530C,Produktionsanlæg og maskiner,2012-04-01,1350000,,Eje,10,,,1170000.0
+C02,Bearbejdningscenter 2 - Mazak VCN-700,Produktionsanlæg og maskiner,2017-10-01,1890000,,Eje,10,,,598500.0
+C03,CNC-drejebænk - Mazak QT-250,Produktionsanlæg og maskiner,2010-01-01,780000,,Eje,10,,,780000.0
+S00,Båndsav - Behringer HBP 413A,Produktionsanlæg og maskiner,2011-08-01,320000,,Eje,10,,,298666.67
+P01,Pulverlakanlæg - Kabine + gasfyret hærdeovn,Produktionsanlæg og maskiner,2012-02-01,3900000,,Eje,10,,,3445000.0
+P02,Sandblæseanlæg - Blæsekabine med genvinding,Produktionsanlæg og maskiner,2012-02-01,850000,,Eje,10,,,750833.33
+S01,Svejseplads 1 - Kemppi X5 MIG/MAG,Produktionsanlæg og maskiner,2011-02-01,65000,,Eje,10,,,63916.67
+S02,Svejseplads 2 - Kemppi X5 MIG/MAG,Produktionsanlæg og maskiner,2012-03-01,65000,,Eje,10,,,56875.0
+S03,Svejseplads 3 - Kemppi X5 MIG/MAG,Produktionsanlæg og maskiner,2013-04-01,65000,,Eje,10,,,49833.33
+S04,Svejseplads 4 - Kemppi X5 MIG/MAG,Produktionsanlæg og maskiner,2014-05-01,65000,,Eje,10,,,42791.67
+S05,Svejseplads 5 - Kemppi X5 MIG/MAG,Produktionsanlæg og maskiner,2015-06-01,65000,,Eje,10,,,35750.0
+S06,Svejseplads 6 - Kemppi X5 MIG/MAG,Produktionsanlæg og maskiner,2016-07-01,65000,,Eje,10,,,28708.33
+S07,Svejseplads 7 - Kemppi X5 MIG/MAG,Produktionsanlæg og maskiner,2017-08-01,65000,,Eje,10,,,21666.67
+S08,Svejseplads 8 - Kemppi X5 MIG/MAG,Produktionsanlæg og maskiner,2018-09-01,65000,,Eje,10,,,14625.0
+S09,Svejseplads 9 - Migatronic Sigma Galaxy,Produktionsanlæg og maskiner,2010-10-01,65000,,Eje,10,,,65000.0
+S10,Svejseplads 10 - Migatronic Sigma Galaxy,Produktionsanlæg og maskiner,2011-11-01,65000,,Eje,10,,,59041.67
+S11,Svejseplads 11 - Migatronic Sigma Galaxy,Produktionsanlæg og maskiner,2012-12-01,65000,,Eje,10,,,52000.0
+S12,Svejseplads 12 - Migatronic Sigma Galaxy,Produktionsanlæg og maskiner,2013-01-01,65000,,Eje,10,,,51458.33
+T01,TIG-plads 1 - Fronius MagicWave 230i,Produktionsanlæg og maskiner,2016-03-01,70000,,Eje,10,,,33250.0
+T02,TIG-plads 2 - Fronius MagicWave 230i,Produktionsanlæg og maskiner,2020-05-01,75000,,Eje,10,,,4375.0
+G01,Grund Smedevænget 14,Grunde,1998-01-01,2500000,,Eje,,,,0.0
+H01,"Produktionshal og kontor, Smedevænget 14",Bygninger,1998-01-01,14800000,,Eje,50,,,6783333.33
+H02,Tilbygning lakhal,Bygninger,2012-02-01,6200000,,Eje,50,,,1095333.33
+K01,"Kran 10 t, svejsehal",Produktionsanlæg og maskiner,2013-05-01,640000,,Eje,10,,,485333.33
+L03,Automation TRUMPF LiftMaster Compact (L01),Produktionsanlæg og maskiner,2019-04-01,1650000,,Eje,10,,,275000.0
+P04,Ombygning hærdeovn - varmegenvinding (energibesparelse),Produktionsanlæg og maskiner,2023-05-15,1800000,Nordisk Maskinhandel A/S,Eje,10,,,0.0
+A01,Automatisk pladelager STOPA (L01),Produktionsanlæg og maskiner,2016-06-01,3900000,,Eje,10,,,1755000.0
+A02,"Udsugning og ventilation, svejsehal",Produktionsanlæg og maskiner,2017-04-01,2600000,,Eje,10,,,953333.33
+A03,Trykluftanlæg og kompressorer,Produktionsanlæg og maskiner,2018-05-01,1100000,,Eje,10,,,284166.67
+A04,Pulverkabine med hurtigt farveskift (P01),Produktionsanlæg og maskiner,2019-09-01,2900000,,Eje,10,,,362500.0
+A05,CNC-retrofit kantpresse B01,Produktionsanlæg og maskiner,2020-02-01,900000,,Eje,10,,,75000.0
+A06,Afgratningsmaskine Lissmac SBM,Produktionsanlæg og maskiner,2020-08-01,1250000,,Eje,10,,,41666.67
+A07,Svejseborde og fixtursystem Siegmund,"Andre anlæg, driftsmateriel og inventar",2019-01-01,780000,,Eje,5,,,299000.0
+H03,Ombygning kontor og kantine,Bygninger,2019-03-01,3200000,,Eje,50,,,112000.0
+V01,Gaffeltruck Linde H30,"Andre anlæg, driftsmateriel og inventar",2018-09-01,410000,,Eje,5,2025-06-02,60000.0,184500.0
+V02,Varebil Ford Transit,"Andre anlæg, driftsmateriel og inventar",2019-03-01,365000,,Eje,5,,,127750.0
+I01,IT-udstyr og netværk,"Andre anlæg, driftsmateriel og inventar",2020-06-01,420000,,Eje,5,,,42000.0
+V03,Gaffeltruck Linde E25 (el),"Andre anlæg, driftsmateriel og inventar",2021-03-15,395000,Truckcenter Vest A/S,Eje,5,,,0.0
+K02,"Portalkran 2 x 5 t, lakhal",Produktionsanlæg og maskiner,2021-10-04,1300000,Nordisk Maskinhandel A/S,Eje,10,,,0.0
+V05,Bukkeværktøj Amada præcisionsværktøj (B01-B03),"Andre anlæg, driftsmateriel og inventar",2021-12-06,1450000,Nordisk Maskinhandel A/S,Eje,5,,,0.0
+I02,Kontorinventar og PC'er,"Andre anlæg, driftsmateriel og inventar",2021-11-08,265000,kategori:IT og telefoni,Eje,5,,,0.0
+S13,Svejseplads 13-14 (udvidelse),Produktionsanlæg og maskiner,2022-03-07,260000,Svejsegas Danmark A/S,Eje,10,,,0.0
+A08,Kantafrunding og afgratning Timesavers 42-serie,Produktionsanlæg og maskiner,2022-01-17,1750000,Nordisk Maskinhandel A/S,Eje,10,,,0.0
+E03,CAD/CAM-software Lantek Expert (laser og bukning),Software,2022-01-10,1250000,kategori:IT og telefoni,Eje,5,,,0.0
+P03,Ny ophængskæde pulverlak,Produktionsanlæg og maskiner,2022-05-02,1150000,Nordisk Maskinhandel A/S,Eje,10,,,0.0
+P05,"Forbehandlingsanlæg pulverlak (zirkonium, 5 zoner)",Produktionsanlæg og maskiner,2022-02-07,5200000,Nordisk Maskinhandel A/S,Eje,10,,,0.0
+I03,Servere og netværk,"Andre anlæg, driftsmateriel og inventar",2023-10-02,310000,kategori:IT og telefoni,Eje,5,,,0.0
+E01,Navi ERP - licens og implementering,Software,2024-03-01,1450000,Navi Partner Danmark A/S,Eje,5,,,0.0
+E02,Solcelleanlæg tag 210 kWp,Solcelleanlæg,2024-08-19,2250000,SolPartner Midt ApS,Eje,20,,,0.0
+V04,Gaffeltruck Linde E30 (el),"Andre anlæg, driftsmateriel og inventar",2025-06-02,455000,Truckcenter Vest A/S,Eje,5,,,0.0

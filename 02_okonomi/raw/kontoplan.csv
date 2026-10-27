@@ -1,0 +1,85 @@
+﻿Konto;Konto navi;Navn;Navn navi;Kontotype;Årsrapport linje
+1010;101000;Salg af varer og ydelser, Danmark;Salg af varer og ydelser, Danmark;Drift;Nettoomsætning
+1020;101100;Salg af varer, EU;Salg af varer, EU (B-varer);Drift;Nettoomsætning
+1030;101200;Salg af varer, udenfor EU;Salg af varer, udenfor EU;Drift;Nettoomsætning
+1040;102000;Fakturerede tillæg (materiale/energi);Tillæg: materialeprisregulering og energi;Drift;Nettoomsætning
+1050;102100;Faktureret fragt og gebyrer;Faktureret fragt og gebyrer;Drift;Nettoomsætning
+1110;108000;Andre driftsindtægter (skrotsalg);Skrotsalg;Drift;Andre driftsindtægter
+1120;108100;Avance ved salg af anlæg;Avance ved salg af anlæg;Drift;Andre driftsindtægter
+1310;201000;Vareforbrug, materialer;Materialeforbrug plade og profiler;Drift;Råvarer og hjælpematerialer
+1320;201100;Hjælpematerialer;Hjælpematerialer (pulver, svejsetråd, gas);Drift;Råvarer og hjælpematerialer
+1330;201200;Fremmed arbejde;Underleverandører;Drift;Råvarer og hjælpematerialer
+1340;201900;Lagerregulering;Ændring i varelager;Drift;Råvarer og hjælpematerialer
+1350;202000;Fragt;Fragt udgående;Drift;Andre eksterne omkostninger
+1410;203000;Gas;Energi - naturgas;Drift;Andre eksterne omkostninger
+1420;203100;El;Energi - el;Drift;Andre eksterne omkostninger
+1510;204000;Vikarer;Inddraget arbejdskraft (vikarer);Drift;Andre eksterne omkostninger
+2210;301000;Lønninger, timelønnede;Lønninger, timelønnede;Drift;Personaleomkostninger
+2215;301100;Lønninger, funktionærer;Lønninger, funktionærer;Drift;Personaleomkostninger
+2220;301200;Fritvalg og SH-betaling;Fritvalg og SH-betaling;Drift;Personaleomkostninger
+2230;301300;Feriepenge;Feriepenge;Drift;Personaleomkostninger
+2240;302000;Pension;Pensionsbidrag, arbejdsgiver;Drift;Personaleomkostninger
+2250;303000;ATP og lønafgifter;ATP, AES, AUB, Barsel.dk;Drift;Personaleomkostninger
+2270;304000;Kurser og uddannelse;Kurser og uddannelse;Drift;Andre eksterne omkostninger
+2810;401000;Værktøj og småanskaffelser;Værktøj og småanskaffelser;Drift;Andre eksterne omkostninger
+2820;401100;Reparation og vedligeholdelse;Vedligehold maskiner og anlæg;Drift;Andre eksterne omkostninger
+2830;401200;Arbejdstøj og sikkerhed;Arbejdstøj og sikkerhed;Drift;Andre eksterne omkostninger
+2840;401300;Kantine og rengøring;Kantine og rengøring;Drift;Andre eksterne omkostninger
+2850;401400;Miljø og affald;Miljø og affald;Drift;Andre eksterne omkostninger
+2910;402000;Ejendomsdrift;Ejendomsdrift;Drift;Andre eksterne omkostninger
+2920;402100;Ejendomsskat;Ejendomsskat;Drift;Andre eksterne omkostninger
+2930;402200;Forsikringer;Forsikringer;Drift;Andre eksterne omkostninger
+3010;403000;IT og telefoni;IT, software og telefoni;Drift;Andre eksterne omkostninger
+3020;403100;Revision og regnskabsassistance;Revision og regnskabsassistance;Drift;Andre eksterne omkostninger
+3030;403200;Advokat og anden rådgivning;Advokat og anden rådgivning;Drift;Andre eksterne omkostninger
+3040;403300;Kontingenter;Kontingenter;Drift;Andre eksterne omkostninger
+3050;403400;Reklame og messer;Markedsføring;Drift;Andre eksterne omkostninger
+3060;403500;Rejser og repræsentation;Rejser og repræsentation;Drift;Andre eksterne omkostninger
+3070;403600;Bil og kørsel;Brændstof og kørsel;Drift;Andre eksterne omkostninger
+3080;403700;Kontorhold;Kontorhold;Drift;Andre eksterne omkostninger
+3090;403800;Bankgebyrer;Bankgebyrer;Drift;Andre eksterne omkostninger
+3110;404000;Tab på debitorer;Tab på debitorer;Drift;Andre eksterne omkostninger
+3120;405000;Tab ved underslæb;Tab ved underslæb;Drift;Andre driftsomkostninger
+3510;501000;Afskrivninger, bygninger;Afskrivninger, bygninger;Drift;Af- og nedskrivninger
+3520;501100;Afskrivninger, produktionsanlæg og maskiner;Afskrivninger, produktionsanlæg og maskiner;Drift;Af- og nedskrivninger
+3530;501200;Afskrivninger, driftsmateriel og inventar;Afskrivninger, driftsmateriel og inventar;Drift;Af- og nedskrivninger
+3540;501300;Afskrivninger, software;Afskrivninger, software;Drift;Af- og nedskrivninger
+3610;501900;Tab ved salg af anlæg;Tab ved salg af anlæg;Drift;Af- og nedskrivninger
+3710;601000;Renteindtægter;Renteindtægter;Drift;Finansielle indtægter
+3720;602000;Renteudgifter, bank;Renteudgifter, bank;Drift;Finansielle omkostninger
+3730;602100;Renteudgifter, realkredit;Renteudgifter, realkredit;Drift;Finansielle omkostninger
+3740;602200;Renteudgifter, leasing;Renteudgifter, leasing;Drift;Finansielle omkostninger
+3750;602300;Kursdifferencer;Valutakursdifferencer;Drift;Finansielle omkostninger
+3760;602400;Renter, SKAT;Rentetillæg skattekonto;Drift;Finansielle omkostninger
+3810;701000;Skat af årets resultat;Skat af årets resultat;Drift;Skat af årets resultat
+5110;811000;Grunde og bygninger;Grunde og bygninger;Status;Grunde og bygninger
+5115;811900;Akk. afskrivninger, bygninger;Akk. afskrivninger, bygninger;Status;Grunde og bygninger
+5120;812000;Produktionsanlæg og maskiner;Produktionsanlæg og maskiner;Status;Produktionsanlæg og maskiner
+5125;812900;Akk. afskrivninger, produktionsanlæg;Akk. afskrivninger, produktionsanlæg;Status;Produktionsanlæg og maskiner
+5130;813000;Andre anlæg, driftsmateriel og inventar;Andre anlæg, driftsmateriel og inventar;Status;Andre anlæg, driftsmateriel og inventar
+5135;813900;Akk. afskrivninger, driftsmateriel;Akk. afskrivninger, driftsmateriel;Status;Andre anlæg, driftsmateriel og inventar
+5140;810000;Software;Immaterielle anlægsaktiver - software;Status;Immaterielle anlægsaktiver
+5145;810900;Akk. afskrivninger, software;Akk. afskrivninger, software;Status;Immaterielle anlægsaktiver
+5310;821000;Varelager, råvarer;Varelager, råvarer;Status;Varebeholdninger
+5410;831000;Debitorer;Tilgodehavender fra salg;Status;Tilgodehavender fra salg og tjenesteydelser
+5420;832000;Andre tilgodehavender;Andre tilgodehavender;Status;Andre tilgodehavender
+5440;833000;Tilgodehavende selskabsskat;Tilgodehavende selskabsskat;Status;Tilgodehavende selskabsskat
+5450;834000;Udskudt skatteaktiv;Udskudt skatteaktiv;Status;Udskudt skatteaktiv
+5610;851000;Bank, driftskonto;Bank - Midtjysk Erhvervsbank;Status;Likvide beholdninger
+6010;911000;Selskabskapital;Virksomhedskapital;Status;Virksomhedskapital
+6020;912000;Overført resultat;Overført resultat;Status;Overført resultat
+6030;913000;Foreslået udbytte;Foreslået udbytte;Status;Foreslået udbytte
+6110;921000;Realkreditgæld;Gæld til realkreditinstitutter;Status;Gæld til realkreditinstitutter
+6120;922000;Banklån;Gæld til kreditinstitutter, lån;Status;Gæld til pengeinstitutter
+6130;923000;Leasingforpligtelse;Leasingforpligtelse;Status;Leasingforpligtelser
+6210;931000;Kreditorer;Leverandører af varer og tjenesteydelser;Status;Leverandører af varer og tjenesteydelser
+6220;932000;Skyldig A-skat og AM-bidrag;Skyldig A-skat og AM-bidrag;Status;Anden gæld
+6230;932100;Skyldig pension og ATP;Skyldig pension og ATP;Status;Anden gæld
+6240;932200;Feriepengeforpligtelse;Feriepengeforpligtelse;Status;Anden gæld
+6250;932300;Skyldig løn;Skyldig løn;Status;Anden gæld
+6310;941000;Udgående moms;Salgsmoms;Status;Anden gæld
+6320;941100;Indgående moms;Købsmoms;Status;Anden gæld
+6330;941200;Moms af EU-køb;Erhvervelsesmoms EU;Status;Anden gæld
+6340;941900;Momsafregning;Momsafregning;Status;Anden gæld
+6410;951000;Skyldig selskabsskat;Skyldig selskabsskat;Status;Selskabsskat
+6420;952000;Skyldigt udbytte;Skyldigt udbytte;Status;Anden gæld

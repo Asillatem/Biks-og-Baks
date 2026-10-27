@@ -1,0 +1,61 @@
+kreditornr,navn,cvr_momsnr,land,adresse,postnr,by,kategori,valuta,betalingsbetingelse,bank_regnr,bank_kontonr,iban,kontakt_email,oprettet_dato,oprettet_af,spaerret
+50001,Nordisk Stålhandel A/S,97224978,DK,Erhvervsparken 7,7000,Fredericia,Materialer - stål,DKK,LM+30,7730,6030753798,,ordre@nordisk-staalhandel.dk,2024-02-26,MIGRERING,False
+50002,Rustfri Partner ApS,76906394,DK,Mekanikervej 22,8200,Aarhus N,Materialer - rustfrit,DKK,N30,9070,6833561869,,ordre@rustfri-partner.dk,2024-02-26,MIGRERING,False
+50003,AluNord A/S,51973631,DK,Teglværksvej 19,9000,Aalborg,Materialer - aluminium,DKK,N30,9860,7788303861,,ordre@alunord.dk,2024-02-26,MIGRERING,False
+50004,Pulverfarve Skandinavien A/S,73613906,DK,Produktionsvej 21,7100,Vejle,Materialer - pulverlak,DKK,N30,7600,6452543146,,ordre@pulverfarve-skandinavien.dk,2024-02-26,MIGRERING,False
+50005,Gasselskabet Midt A/S,77785507,DK,Industriparken 13,8800,Viborg,Energi - gas,DKK,N14,6140,9745883712,,info@gasselskabet-midt.dk,2024-02-26,MIGRERING,False
+50006,Vestenergi A/S,24767140,DK,Transportvej 37,7500,Holstebro,Energi - el,DKK,N14,7570,8381818824,,info@vestenergi.dk,2024-02-26,MIGRERING,False
+50007,Svejsegas Danmark A/S,50604667,DK,Mekanikervej 37,6000,Kolding,Svejsemateriel og gas,DKK,N30,9860,1153076845,,info@svejsegas-danmark.dk,2024-02-26,MIGRERING,False
+50008,TechLease Danmark A/S,81025479,DK,Industrivej 21,2600,Glostrup,Leasing,DKK,N8,6140,1792684399,,info@techlease-danmark.dk,2024-02-26,MIGRERING,False
+50009,Nordisk Maskinhandel A/S,45562697,DK,Produktionsvej 33,8660,Skanderborg,Maskiner og anlæg,DKK,N30,6880,7936890883,,info@nordisk-maskinhandel.dk,2024-02-26,MIGRERING,False
+50010,Navi Partner Danmark A/S,65459213,DK,Lundvej 35,8200,Aarhus N,IT og telefoni,DKK,N14,7600,4746470956,,info@navi-partner-danmark.dk,2024-02-26,MIGRERING,False
+50011,Truckcenter Vest A/S,52211492,DK,Produktionsvej 39,7400,Herning,Maskiner og anlæg,DKK,N30,6880,1803128211,,info@truckcenter-vest.dk,2024-02-26,MIGRERING,False
+50012,SolPartner Midt ApS,10639794,DK,Ringvejen 33,8600,Silkeborg,Maskiner og anlæg,DKK,N30,6140,6107315141,,info@solpartner-midt.dk,2024-06-10,HELU,False
+50013,Skattestyrelsen,71573613,DK,Industrivej 39,2600,Glostrup,Offentlige myndigheder,DKK,N8,,,,,2024-02-26,MIGRERING,False
+50014,ATP,30966341,DK,Fabriksvej 16,3400,Hillerød,Offentlige myndigheder,DKK,N8,,,,,2024-02-26,MIGRERING,False
+50015,Industriens Pension,57784962,DK,Lundvej 37,2100,København Ø,Pension,DKK,N8,,,,,2024-02-26,MIGRERING,False
+50016,Midtjysk Erhvervsbank A/S,71046516,DK,Smedevej 22,7400,Herning,Bank og finansiering,DKK,N8,3409,5831680350,,info@midtjysk-erhvervsbank.dk,2024-02-26,MIGRERING,False
+50017,Revisionsfirmaet Holst & Krog Statsautoriseret Revisionspartnerselskab,44340690,DK,Håndværkervej 19,7400,Herning,Rådgivning,DKK,N14,8117,6542833749,,info@holstkrog.dk,2024-02-26,MIGRERING,False
+50018,Vestdansk Forsikring A/S,25193822,DK,Smedevej 18,7400,Herning,Forsikring,DKK,N30,7730,4756389204,,info@vestdansk-forsikring.dk,2024-02-26,MIGRERING,False
+50019,Metalindustriens Arbejdsgiverforening,47840686,DK,Værkstedsvej 7,8000,Aarhus C,Kontingenter,DKK,N14,6140,6860821919,,info@metalarbejdsgiver.dk,2024-02-26,MIGRERING,False
+50020,Univognmandsforretning ApS,38724118,DK,Ringvejen 21,8600,Silkeborg,Fragt,DKK,N30,7570,7278932888,,info@univognmandsforretning.dk,2024-02-26,MIGRERING,False
+50021,Steelskan Fragt ApS,86475642,DK,Energivej 38,6700,Esbjerg,Fragt,DKK,N30,5470,6766280687,,info@steelskan-fragt.dk,2024-02-26,MIGRERING,False
+50022,Linepro Vognmandsforretning ApS,10438632,DK,Værkstedsvej 37,4100,Ringsted,Fragt,DKK,LM+30,3409,3365484573,,info@linepro-vognmandsforretning.dk,2024-02-26,MIGRERING,False
+50023,Djurslands Vognmandsforretning ApS,78029323,DK,Industriparken 13,8500,Grenaa,Fragt,DKK,LM+30,1551,3439935344,,info@djurslands-vognmandsforretning.dk,2024-02-26,MIGRERING,False
+50024,Formjysk Transport A/S,40537066,DK,Energivej 2,6900,Skjern,Fragt,DKK,N30,9070,5025132208,,info@formjysk-transport.dk,2024-02-26,MIGRERING,False
+50025,Sydjysk Fragt A/S,54917856,DK,Lundvej 34,6700,Esbjerg,Fragt,DKK,N14,9860,4898615759,,info@sydjysk-fragt.dk,2024-02-26,MIGRERING,False
+50026,Fjordtec Industriforsyning ApS,12957920,DK,Transportvej 37,7200,Grindsted,Værktøj og forbrug,DKK,N30,7600,9172435172,,info@fjordtec-industriforsyning.dk,2024-04-23,SOTH,False
+50027,Madsen Teknik ApS,99292482,DK,Mekanikervej 13,5000,Odense C,Værktøj og forbrug,DKK,N30,5470,8336871175,,info@madsen-teknik.dk,2024-02-26,MIGRERING,False
+50028,Kristensen Industriforsyning ApS,66804062,DK,Lundvej 16,2600,Glostrup,Værktøj og forbrug,DKK,LM+30,6880,9517024610,,info@kristensen-industriforsyning.dk,2024-02-26,MIGRERING,False
+50029,Hänel Maschinenbau GmbH,DE617684152,DE,Gehringerstraße 78/12,33602,Bielefeld,Værktøj og forbrug,EUR,LM+30,,,DE06020898669487080520,info@haenel-maschinenbau.de,2024-02-26,MIGRERING,False
+50030,Østergaard & Søn ApS,65372509,DK,Smedevej 32,7430,Ikast,Værktøj og forbrug,DKK,LM+30,7570,8576771259,,info@oestergaard-og-soen.dk,2024-02-26,MIGRERING,False
+50031,Faust Maschinenbau GmbH,DE714841556,DE,Södingstraße 429,21073,Hamburg,Værktøj og forbrug,EUR,N30,,,DE02802983222274146763,info@faust-maschinenbau.de,2025-05-20,SOTH,False
+50032,Hartung Werkzeuge GmbH,DE369821129,DE,Achim-Mosemann-Gasse 54-45,48143,Münster,Værktøj og forbrug,EUR,N14,,,DE66030726542332161071,info@hartung-werkzeuge.de,2024-02-26,MIGRERING,False
+50033,Jyskmaskinservice A/S,87946142,DK,Smedevej 17,8740,Brædstrup,Service og vedligehold,DKK,LM+30,9860,5092389655,,info@jyskmaskinservice.dk,2024-02-26,MIGRERING,False
+50034,Fynsk El-service ApS,25295447,DK,Maskinvej 18,5000,Odense C,Service og vedligehold,DKK,LM+30,9070,5638536490,,info@fynsk-el-service.dk,2024-02-26,MIGRERING,False
+50035,Sydjysk Kompressorservice A/S,14713964,DK,Fabriksvej 22,6100,Haderslev,Service og vedligehold,DKK,N14,7570,1860005853,,info@sydjysk-kompressorservice.dk,2024-02-26,MIGRERING,False
+50036,Prohydraulik A/S,30528085,DK,Transportvej 20,8900,Randers C,Service og vedligehold,DKK,N30,9860,6534404945,,info@prohydraulik.dk,2024-02-26,MIGRERING,False
+50037,Nissen El-service ApS,15688351,DK,Produktionsvej 17,7430,Ikast,Service og vedligehold,DKK,N30,9280,8183113671,,info@nissen-el-service.dk,2024-02-26,MIGRERING,False
+50038,Brandt & Søn A/S,94461731,DK,Smedevej 10,9000,Aalborg,Service og vedligehold,DKK,N30,5470,8796017949,,info@brandt-og-soen.dk,2024-02-26,MIGRERING,False
+50039,Midtjysk Data A/S,26181305,DK,Erhvervsparken 13,8850,Bjerringbro,IT og telefoni,DKK,N14,9070,7477869083,,info@midtjysk-data.dk,2024-02-26,MIGRERING,False
+50040,Nordjysk Data A/S,37035815,DK,Erhvervsparken 26,9800,Hjørring,IT og telefoni,DKK,N30,7730,2999533792,,info@nordjysk-data.dk,2024-02-26,MIGRERING,False
+50041,Midtjysk Ingeniørrådgivning ApS,54988427,DK,Værkstedsvej 20,7330,Brande,Rådgivning,DKK,N14,9860,8691388537,,info@midtjysk-ingenioerraadgivning.dk,2024-02-26,MIGRERING,False
+50042,Andersen Ingeniørrådgivning ApS,65321637,DK,Transportvej 9,2600,Glostrup,Rådgivning,DKK,LM+30,7570,1699453295,,info@andersen-ingenioerraadgivning.dk,2024-02-26,MIGRERING,False
+50043,Klausen Catering ApS,70970678,DK,Mekanikervej 24,6000,Kolding,Kantine og rengøring,DKK,N30,8117,5072829291,,info@klausen-catering.dk,2024-11-20,HELU,False
+50044,Vestjysk Catering A/S,12399006,DK,Industriparken 4,7600,Struer,Kantine og rengøring,DKK,N30,7600,9808757025,,info@vestjysk-catering.dk,2025-10-31,SOTH,False
+50045,Vestergaard Arbejdstøj ApS,31363659,DK,Produktionsvej 12,7200,Grindsted,Arbejdstøj og sikkerhed,DKK,N30,7600,8471383876,,info@vestergaard-arbejdstoej.dk,2024-02-26,MIGRERING,False
+50046,Clausen Arbejdstøj ApS,67837398,DK,Maskinvej 25,6700,Esbjerg,Arbejdstøj og sikkerhed,DKK,N14,7600,5196011314,,info@clausen-arbejdstoej.dk,2024-02-26,MIGRERING,False
+50047,Østjysk Varmforzinkning A/S,83139609,DK,Erhvervsparken 15,8740,Brædstrup,Underleverandør,DKK,N30,6880,9043910585,,info@oestjysk-varmforzinkning.dk,2024-02-26,MIGRERING,False
+50048,Lund Hærderi A/S,86234653,DK,Mekanikervej 31,8800,Viborg,Underleverandør,DKK,N14,7600,1460800980,,info@lund-haerderi.dk,2024-02-26,MIGRERING,False
+50049,Hedegalvanisering ApS,55355762,DK,Erhvervsvej 26,4700,Næstved,Underleverandør,DKK,N30,5470,4420493959,,info@hedegalvanisering.dk,2024-02-26,MIGRERING,False
+50050,Østjysk Galvanisering A/S,21332763,DK,Maskinvej 36,8200,Aarhus N,Underleverandør,DKK,LM+30,9070,2952913405,,info@oestjysk-galvanisering.dk,2024-02-26,MIGRERING,False
+50051,Laursen Ejendomsservice ApS,47471664,DK,Energivej 32,7800,Skive,Ejendom,DKK,N30,7730,5677372469,,info@laursen-ejendomsservice.dk,2024-02-26,MIGRERING,False
+50052,Jepsen Vicevært A/S,97364044,DK,Maskinvej 7,7330,Brande,Ejendom,DKK,N14,5470,2807063016,,info@jepsen-vicevaert.dk,2024-02-26,MIGRERING,False
+50053,Steffensen Bemanding A/S,99553936,DK,Maskinvej 25,8200,Aarhus N,Vikarbureau,DKK,LM+30,7730,7906878785,,info@steffensen-bemanding.dk,2024-02-26,MIGRERING,False
+50054,Sydjysk Bemanding ApS,66049906,DK,Industriparken 3,7000,Fredericia,Vikarbureau,DKK,N30,7600,1153747313,,info@sydjysk-bemanding.dk,2024-02-26,MIGRERING,False
+50055,Djurslands Kursuscenter ApS,79843733,DK,Erhvervsvej 6,8500,Grenaa,Kurser og uddannelse,DKK,N14,5470,6984911417,,info@djurslands-kursuscenter.dk,2024-02-26,MIGRERING,False
+50056,Lind Uddannelsescenter ApS,82479570,DK,Erhvervsvej 13,8600,Silkeborg,Kurser og uddannelse,DKK,LM+30,3409,8871547860,,info@lind-uddannelsescenter.dk,2024-02-26,MIGRERING,False
+50057,Nissen Kommunikation ApS,83170425,DK,Smedevej 31,7600,Struer,Reklame og messer,DKK,LM+30,9860,2590126519,,info@nissen-kommunikation.dk,2024-02-26,MIGRERING,False
+50058,Fynsk Reklamebureau ApS,77771182,DK,Maskinvej 38,5000,Odense C,Reklame og messer,DKK,LM+30,9280,1624791536,,info@fynsk-reklamebureau.dk,2024-02-26,MIGRERING,False
+50059,Vestergaard Affaldsservice ApS,77763392,DK,Erhvervsparken 36,2670,Greve,Miljø og affald,DKK,LM+30,7570,6268275882,,info@vestergaard-affaldsservice.dk,2024-02-26,MIGRERING,False
+50060,Jysk Værktøj & Service,46333969,DK,Lindevej 112B,7400,Herning,Værktøj og forbrug,DKK,N8,6140,8307710921,,,2024-04-11,LAMI,True

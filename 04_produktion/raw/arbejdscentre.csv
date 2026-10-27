@@ -1,0 +1,30 @@
+﻿Arbejdscenter;Navn;Maskine;Afdeling;Operation;Anskaffet dato;Anskaffelsessum (DKK);Ejerform;Timesats 2021 (DKK);Kapacitet timer dag
+L01;Laserskærer 1;TRUMPF TruLaser 3030 (CO2);LASB;LASER;01-03-2015;4850000;Eje;950;22,50
+L02;Fiberlaser;TRUMPF TruLaser 3040 fiber;LASB;LASER;12-09-2022;7400000;Leasing;1050;22,50
+B01;Kantpresse 100 t;Amada HFE 100-3;LASB;BUK;01-05-2008;1150000;Eje;620;15,00
+B02;Kantpresse 170 t;Amada HFE 170-3;LASB;BUK;01-09-2013;1480000;Eje;650;15,00
+B03;Kantpresse 220 t;Amada HFE 220-4;LASB;BUK;01-02-2018;1920000;Eje;690;15,00
+B04;Kantpresse 130 t ATC;Amada HG-1303 ATC;LASB;BUK;07-04-2025;3650000;Eje;690;15,00
+R01;Svejserobot;Yaskawa Motoman AR1440 celle;SVEJ;ROBOTSVEJS;01-06-2019;1650000;Eje;720;15,00
+R02;Svejserobot 2;Yaskawa celle;SVEJ;ROBOTSVEJS;15-09-2025;1890000;Eje;720;15,00
+C01;Bearbejdningscenter 1;Mazak VCN-530C;CNC;CNC;01-04-2012;1350000;Eje;760;15,00
+C02;Bearbejdningscenter 2;Mazak VCN-700;CNC;CNC;01-10-2017;1890000;Eje;790;15,00
+C03;CNC-drejebænk;Mazak QT-250;CNC;CNC;01-01-2010;780000;Eje;700;15,00
+S00;Båndsav;Behringer HBP 413A;SVEJ;SAV;01-08-2011;320000;Eje;450;7,50
+P01;Pulverlakanlæg;Kabine + gasfyret hærdeovn;LAK;LAK;01-02-2012;3900000;Eje;640;22,50
+P02;Sandblæseanlæg;Blæsekabine med genvinding;LAK;BLAES;01-02-2012;850000;Eje;560;15,00
+M01;Montage;Montagehal;MONT;MONT;01-01-1998;0;Eje;480;37,50
+S01;Svejseplads 1;Kemppi X5 MIG/MAG;SVEJ;SVEJS;01-02-2011;65000;Eje;520;15,00
+S02;Svejseplads 2;Kemppi X5 MIG/MAG;SVEJ;SVEJS;01-03-2012;65000;Eje;520;15,00
+S03;Svejseplads 3;Kemppi X5 MIG/MAG;SVEJ;SVEJS;01-04-2013;65000;Eje;520;15,00
+S04;Svejseplads 4;Kemppi X5 MIG/MAG;SVEJ;SVEJS;01-05-2014;65000;Eje;520;15,00
+S05;Svejseplads 5;Kemppi X5 MIG/MAG;SVEJ;SVEJS;01-06-2015;65000;Eje;520;15,00
+S06;Svejseplads 6;Kemppi X5 MIG/MAG;SVEJ;SVEJS;01-07-2016;65000;Eje;520;15,00
+S07;Svejseplads 7;Kemppi X5 MIG/MAG;SVEJ;SVEJS;01-08-2017;65000;Eje;520;15,00
+S08;Svejseplads 8;Kemppi X5 MIG/MAG;SVEJ;SVEJS;01-09-2018;65000;Eje;520;15,00
+S09;Svejseplads 9;Migatronic Sigma Galaxy;SVEJ;SVEJS;01-10-2010;65000;Eje;520;15,00
+S10;Svejseplads 10;Migatronic Sigma Galaxy;SVEJ;SVEJS;01-11-2011;65000;Eje;520;15,00
+S11;Svejseplads 11;Migatronic Sigma Galaxy;SVEJ;SVEJS;01-12-2012;65000;Eje;520;15,00
+S12;Svejseplads 12;Migatronic Sigma Galaxy;SVEJ;SVEJS;01-01-2013;65000;Eje;520;15,00
+T01;TIG-plads 1;Fronius MagicWave 230i;SVEJ;TIGSVEJS;01-03-2016;70000;Eje;560;15,00
+T02;TIG-plads 2;Fronius MagicWave 230i;SVEJ;TIGSVEJS;01-05-2020;75000;Eje;560;15,00

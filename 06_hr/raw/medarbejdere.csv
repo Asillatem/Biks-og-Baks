@@ -1,0 +1,144 @@
+﻿Medarbejder nr.;Brugerid;Fornavn;Efternavn;Køn;Fødselsdato;Nationalitet;Adresse;Postnr;By;Email;Afdeling;Stilling;Lønform;Ugentlige timer;Ansat dato;Fratrådt dato;Fratrædelsesårsag;Nærmeste leder nr.;Bank regnr;Bank kontonr
+1001;POBA;Poul;Baksgaard;M;11-02-1958;DK;Vestergade 5A;7430;Ikast;poba@biksbaks.dk;ADM;Seniorrådgiver;Funktionær;20;03-04-1989;;;1002;5470;4977311978
+1002;MEBA;Mette;Baksgaard;K;23-09-1986;DK;Granvej 33B;7400;Herning;meba@biksbaks.dk;ADM;Adm. direktør;Funktionær;37;01-08-2012;;;;6880;4823556229
+1003;HELU;Henrik;Lund;M;04-05-1971;DK;Vestergade 90A;8600;Silkeborg;helu@biksbaks.dk;ADM;Økonomichef;Funktionær;37;01-03-2014;31-03-2025;Egen opsigelse;1002;9070;4906587300
+1004;SOTH;Sofie;Thygesen;K;02-12-1990;DK;Kastanievej 3A;7430;Ikast;soth@biksbaks.dk;ADM;Økonomichef;Funktionær;37;01-09-2017;;;1002;6880;1855749746
+1005;JEKJ;Jesper;Kjær;M;19-07-1979;DK;Mågevej 45;7441;Bording;jekj@biksbaks.dk;PLAN;Produktionschef;Funktionær;37;05-01-2009;;;1002;9070;1564370623
+1006;LAMI;Lars;Mikkelsen;M;28-03-1984;DK;Kløvervej 43;7400;Herning;lami@biksbaks.dk;IND;Indkøber;Funktionær;37;01-04-2018;30-06-2025;Bortvist;1005;6140;8307710921
+1007;ANHO;Anne-Marie;Holm;K;14-10-1968;DK;Holmevej 68;7330;Brande;anho@biksbaks.dk;KVAL;Kvalitetschef;Funktionær;37;01-06-2008;;;1002;9860;4221970316
+1008;AHYI;Ahmed;Yilmaz;M;30-01-1992;DK;Bøgevej 101B;7400;Herning;ahyi@biksbaks.dk;SALG;Salgschef;Funktionær;37;01-02-2022;;;1002;6140;8473572722
+1009;CANO;Camilla;Nørgaard;K;08-04-1995;DK;Parkvej 118;7430;Ikast;cano@biksbaks.dk;PLAN;Produktionsplanlægger;Funktionær;37;15-08-2019;;;1005;8117;4317653585
+1010;BOAN;Bo;Andersen;M;21-11-1963;DK;Industrivej 18;7451;Sunds;boan@biksbaks.dk;SVEJ;Værkfører;Funktionær;37;01-05-1994;;;1002;3409;9203626678
+1011;KAVE;Katrine;Vestergaard;K;17-06-1997;DK;Holmevej 98B;7430;Ikast;kave@biksbaks.dk;SALG;Ordremedarbejder;Funktionær;37;01-08-2021;;;1008;1551;5586920364
+1012;TIPE;Tine;Petersen;K;07-10-1983;DK;Egevej 63;7400;Herning;tipe@biksbaks.dk;ADM;Løn- og personaleansvarlig;Funktionær;37;21-02-2017;;;1002;6880;4604668414
+1013;OVLA;Ove;Lauridsen;M;14-12-1985;DK;Hedevej 88;7330;Brande;ovla@biksbaks.dk;ADM;Kontorassistent;Funktionær;37;12-03-2019;31-07-2025;Egen opsigelse;1002;7600;6325061893
+1014;MEDA;Mette;Danielsen;K;29-02-1972;DK;Pilevej 24;7430;Ikast;meda@biksbaks.dk;ADM;Bogholder;Funktionær;37;29-02-2008;;;1002;3409;1452830904
+1015;NAIV;Nanna;Iversen;K;29-05-1956;DK;Kløvervej 25A;7430;Ikast;naiv@biksbaks.dk;SALG;Tilbudsberegner;Funktionær;37;13-09-2010;30-06-2022;Egen opsigelse;1002;5470;9454426649
+1016;URSC;Ursula;Schultz;K;16-06-1982;DK;Agervej 94;7400;Herning;ursc@biksbaks.dk;SALG;Sælger;Funktionær;37;29-06-2019;31-05-2024;Egen opsigelse;1008;3409;4307731528
+1017;TRMO;Trine;Mogensen;K;02-08-1959;DK;Solsikkevej 59B;7400;Herning;trmo@biksbaks.dk;IND;Logistikkoordinator;Funktionær;25;18-11-2016;;;1005;9070;7419975707
+1018;JEPE;Jeppe;Petersen;M;31-01-1975;DK;Markvej 51;7330;Brande;jepe@biksbaks.dk;IND;Chauffør;Timeløn;37;02-11-2010;;;1005;9280;7655900488
+1019;SELI;Selma;Lind;K;30-06-1966;DK;Møllevej 13;7430;Ikast;seli@biksbaks.dk;IND;Indkøbsassistent;Funktionær;37;18-04-2019;30-06-2022;Egen opsigelse;1005;1551;6951716975
+1020;CAMA;Carla;Mathiasen;K;02-03-1959;DK;Pilevej 26;7400;Herning;cama@biksbaks.dk;PLAN;Produktionstekniker;Funktionær;37;28-06-2014;;;1005;6880;9863645060
+1021;FRSC;Frank;Schou;M;28-12-1987;DK;Nørregade 69;7470;Karup J;frsc@biksbaks.dk;KVAL;Kvalitetstekniker;Funktionær;37;09-06-2018;;;1002;3409;3098749100
+1022;OEJE;Øyvind;Jensen;M;15-09-1947;DK;Egevej 11;8600;Silkeborg;oeje@biksbaks.dk;SALG;Ordremedarbejder;Funktionær;37;01-11-1998;31-07-2021;Egen opsigelse;1002;6880;4443195047
+1023;MIKA;Mikael;Karlsen;M;26-01-1973;DK;Markvej 80A;7441;Bording;mika@biksbaks.dk;LASB;Holdleder laser;Timeløn;37;05-05-2005;;;1002;6880;4931595749
+1024;JECH;Jens;Christoffersen;M;08-05-1968;DK;Bøgevej 8B;7330;Brande;jech@biksbaks.dk;LAK;Holdleder lak;Timeløn;37;26-11-2008;;;1002;7600;1920235748
+1025;KLBE;Klaus;Bech;M;09-02-1980;DK;Møllevej 118A;7430;Ikast;;LASB;Kantbukker;Timeløn;37;20-09-2019;21-07-2023;Afskediget - samarbejde;1023;1551;7758716817
+1026;ASPA;Asger;Paulsen;M;14-11-1960;DK;Mågevej 109;7361;Ejstrupholm;;LASB;Kantbukker;Timeløn;37;02-01-1991;12-01-2024;Egen opsigelse;1023;9070;9215397206
+1027;VEKR;Verner;Kristensen;M;07-04-1980;DK;Drosselvej 102;7400;Herning;;LASB;Laseroperatør;Timeløn;37;04-01-2016;27-10-2023;Egen opsigelse;1023;3409;1049409325
+1028;RINI;Richardt;Nissen;M;07-01-1994;DK;Højvangen 93;7430;Ikast;;LASB;Laseroperatør;Timeløn;37;16-04-2020;24-12-2021;Egen opsigelse;1023;3409;3188985769
+1029;NIJA;Nick;Jakobsen;M;08-11-1989;DK;Engvej 74A;7451;Sunds;;LASB;Laseroperatør;Timeløn;37;19-04-2020;;;1023;7600;4438476458
+1030;JOLO;Józef;Łój;M;19-11-1984;PL;Fredensgade 81B;7430;Ikast;;LASB;Laseroperatør;Timeløn;37;29-01-2020;10-11-2023;Egen opsigelse;1023;1551;4288856870
+1031;JOLA;Jonas;Lassen;M;11-08-1977;DK;Tværgade 3B;7430;Ikast;;LASB;Laseroperatør;Timeløn;37;03-06-2017;;;1023;9070;4426458089
+1032;ROSC;Robert;Schultz;M;22-06-1972;DK;Granvej 34;7430;Ikast;;LASB;Laseroperatør;Timeløn;37;07-04-2017;01-09-2023;Egen opsigelse;1023;8117;8301586449
+1033;ROJE;Robin;Jensen;M;20-12-1974;DK;Møllevej 94, 3.;7480;Vildbjerg;;LASB;Kantbukker;Timeløn;37;30-07-2017;;;1023;7570;2341022824
+1034;FRCA;Frede;Carlsen;M;17-02-1958;DK;Søndergade 59;7430;Ikast;;LASB;Kantbukker;Timeløn;37;17-06-2018;17-12-2021;Afskediget - samarbejde;1023;9860;8605765630
+1035;STTO;Stefan;Toft;M;15-11-1978;DK;Højvangen 85B;7430;Ikast;;LASB;Kantbukker;Timeløn;37;12-03-2017;26-01-2024;Egen opsigelse;1023;7600;1833411162
+1036;TYJA;Tymon;Jażdżyk;M;10-05-1960;PL;Markvej 14B;7400;Herning;;LASB;Kantbukker;Timeløn;37;24-02-1991;;;1023;7570;2204192830
+1037;OEJO;Øystein;Johansen;M;22-08-1971;DK;Svalevej 94B;7400;Herning;;LASB;Kantbukker;Timeløn;37;26-10-2014;05-05-2023;Egen opsigelse;1023;9070;6938984732
+1038;STLU;Stephan;Lund;M;27-11-1958;DK;Tværgade 48;7400;Herning;;LASB;Laseroperatør;Timeløn;37;22-11-1999;31-12-2025;Pension;1023;6880;1434828803
+1039;RIBA;Richard;Bach;M;18-06-1996;DK;Kløvervej 94A;7330;Brande;;SVEJ;Svejser;Timeløn;37;02-12-2014;10-06-2022;Afskediget - samarbejde;1010;8117;3727803324
+1040;JAMO;Jan;Møller;M;06-05-1994;DK;Rosenvej 59;7441;Bording;;SVEJ;Svejser;Timeløn;37;04-11-2014;;;1010;9070;9609743220
+1041;BRBE;Brian;Bertelsen;M;12-12-1978;DK;Lindevej 94B;7400;Herning;;SVEJ;Svejser;Timeløn;37;18-11-2014;07-04-2023;Egen opsigelse;1010;6880;4950421216
+1042;BJWI;Bjarne;Winther;M;01-11-1977;DK;Valmuevej 86A;7400;Herning;;SVEJ;Klejnsmed;Timeløn;37;11-03-2019;06-05-2022;Egen opsigelse;1010;1551;9278928909
+1043;PEJE;Pete;Jespersen;M;30-03-1973;DK;Markvej 64;7400;Herning;;SVEJ;Svejser;Timeløn;37;14-09-2017;;;1010;9860;4500890542
+1044;KASI;Katrine;Simonsen;K;18-05-1978;DK;Svalevej 8;7400;Herning;;SVEJ;Klejnsmed;Timeløn;37;06-04-2020;;;1010;9280;9240176436
+1045;FRMA;Freddy;Madsen;M;18-06-1981;DK;Stationsvej 69;7400;Herning;;SVEJ;Svejser;Timeløn;37;04-08-2010;;;1010;6880;1361224696
+1046;RONI;Ronnie;Nissen;M;25-09-1993;DK;Nørregade 65B;7400;Herning;;SVEJ;Klejnsmed;Timeløn;37;27-12-2019;19-09-2025;Egen opsigelse;1010;9070;3761712477
+1047;JIKR;Jim;Krogh;M;11-03-1974;DK;Bakkevej 9, 1. th.;7470;Karup J;;SVEJ;Klejnsmed;Timeløn;37;22-12-2020;;;1010;7730;8598506540
+1048;DAHA;Danny;Hansen;M;28-08-2000;DK;Engvej 101B;8620;Kjellerup;;SVEJ;Lærling (smed);Lærling;37;19-10-2020;31-10-2024;Udløb af uddannelsesaftale;1010;9280;3442533538
+1049;BOIV;Bobby;Iversen;M;14-05-1988;DK;Engvej 47;7400;Herning;;SVEJ;Robotoperatør;Timeløn;37;19-03-2016;20-08-2021;Egen opsigelse;1010;7600;2006690089
+1050;SICH;Sine;Christiansen;K;06-04-1978;DK;Svalevej 31B;7441;Bording;;SVEJ;Svejser;Timeløn;37;13-03-2010;09-02-2024;Egen opsigelse;1010;1551;6530906150
+1051;JINI;Jim;Nielsen;M;02-01-1973;DK;Bakkevej 51B, 3.;8620;Kjellerup;;SVEJ;Svejser;Timeløn;37;23-04-2008;04-08-2023;Egen opsigelse;1010;9280;5150060431
+1052;ALKR;Alma;Kristensen;K;31-01-1982;DK;Tranevej 13;7480;Vildbjerg;;SVEJ;Svejser;Timeløn;37;21-02-2020;07-04-2023;Egen opsigelse;1010;9070;7387813083
+1053;MACH;Marcus;Christiansen;M;18-10-1964;DK;Fasanvej 95;7430;Ikast;;SVEJ;Klejnsmed;Timeløn;37;28-07-2020;;;1010;8117;4163551652
+1054;VODI;Voicu;Diaconu;M;29-12-1967;RO;Granvej 60;7430;Ikast;;SVEJ;Klejnsmed;Timeløn;37;23-10-2015;;;1010;9860;6872108029
+1055;SISC;Simon;Schou;M;30-01-1955;DK;Hedevej 98;7430;Ikast;;SVEJ;Svejser;Timeløn;37;06-10-2016;28-02-2022;Pension;1010;6140;9498069574
+1056;ULSV;Ulf;Svendsen;M;31-07-1978;DK;Hedevej 65A;7430;Ikast;;CNC;Industritekniker;Timeløn;37;27-04-2020;09-07-2021;Egen opsigelse;1005;7730;5070050224
+1057;BOLI;Boe;Lind;M;25-04-1970;DK;Nørregade 110;7430;Ikast;;CNC;CNC-operatør;Timeløn;37;04-04-2012;30-05-2025;Egen opsigelse;1005;1551;6835821150
+1058;BEST;Bertram;Steffensen;M;18-09-1986;DK;Lindevej 5;7442;Engesvang;;CNC;Industritekniker;Timeløn;37;09-09-2020;13-09-2024;Egen opsigelse;1005;6880;5067424058
+1059;MIPI;Miłosz;Pietrak;M;31-10-1973;PL;Søndergade 88B;7430;Ikast;;CNC;Industritekniker;Timeløn;37;17-05-2019;;;1005;3409;2187877367
+1060;GESO;George;Søndergaard;M;17-05-1947;DK;Tranevej 28;7430;Ikast;;CNC;CNC-operatør;Timeløn;37;16-06-2005;31-01-2021;Pension;1005;5470;4466334401
+1061;ASLA;Asger;Lassen;M;29-07-1980;DK;Østergade 21;7400;Herning;;LAK;Sandblæser;Timeløn;37;19-05-2010;;;1024;7730;5546785787
+1062;MAKA;Maciej;Kalota;M;04-06-1975;PL;Egevej 41B;7400;Herning;;LAK;Pulverlakerer;Timeløn;37;02-12-2017;15-10-2021;Afskediget - samarbejde;1024;9280;7471688632
+1063;NIRA;Nikolai;Rasmussen;M;02-12-1975;DK;Elmevej 110;7361;Ejstrupholm;;LAK;Pulverlakerer;Timeløn;37;03-12-2013;;;1024;7600;7888002661
+1064;ERMA;Eryk;Majtyka;M;22-02-1989;PL;Holmevej 87B;7400;Herning;;LAK;Ophænger;Timeløn;37;28-10-2018;;;1024;3409;5719719663
+1065;RAKR;Ragnar;Kristoffersen;M;21-08-1976;DK;Parkvej 52B;7430;Ikast;;LAK;Ophænger;Timeløn;37;09-05-2020;;;1024;9070;4169385185
+1066;MIEF;Miron;Eftimie;M;07-04-1978;RO;Hedevej 58;7400;Herning;;LAK;Sandblæser;Timeløn;37;06-03-2010;12-08-2022;Egen opsigelse;1024;9860;4367655338
+1067;GEOL;Georg;Olsen;M;31-12-1957;DK;Egevej 79;7400;Herning;;LAK;Ophænger;Timeløn;37;17-07-2014;22-07-2022;Egen opsigelse;1024;7730;2238393959
+1068;HEDA;Herbert;Danielsen;M;01-10-1977;DK;Pilevej 58;8620;Kjellerup;;MONT;Truckfører;Timeløn;37;03-10-2007;;;1005;1551;9530704360
+1069;ANCE;Angelika;Celuch;K;02-03-1980;PL;Spurvevej 6, 1. tv.;7430;Ikast;;MONT;Lagermedarbejder;Timeløn;37;27-02-2020;;;1005;9070;3267328984
+1070;SEKJ;Sebastian;Kjær;M;17-10-1969;DK;Tværgade 115;7480;Vildbjerg;;MONT;Lagermedarbejder;Timeløn;37;28-05-2019;;;1005;1551;6476003648
+1071;MAER;Mathias;Eriksen;M;13-07-1969;DK;Valmuevej 94, 2. tv.;7451;Sunds;;MONT;Montør;Timeløn;37;12-09-2020;;;1005;9280;6312361249
+1072;CEGA;Cezary;Gajownik;M;14-04-1986;PL;Nørregade 35B;7430;Ikast;;MONT;Truckfører;Timeløn;37;16-10-2019;;;1005;9860;3888586174
+1073;COTO;Corneliu;Toma;M;21-09-1987;RO;Tranevej 27;7430;Ikast;;SVEJ;Klejnsmed;Timeløn;37;01-03-2021;;;1010;9860;3417167758
+1074;TOPA;Tom;Paulsen;M;25-12-2003;DK;Vibevej 62A;7480;Vildbjerg;;CNC;Industritekniker;Timeløn;37;01-03-2021;;;1005;9070;6475457337
+1075;GOMA;Gorm;Madsen;M;18-06-1994;DK;Holmevej 54;8600;Silkeborg;;LASB;Kantbukker;Timeløn;37;17-05-2021;31-12-2021;Egen opsigelse;1023;8117;8690956363
+1076;OEGR;Øvli;Gregersen;M;27-04-1958;DK;Søndergade 80;8600;Silkeborg;;SVEJ;Klejnsmed;Timeløn;37;15-07-2021;31-05-2025;Pension;1010;1551;8141251033
+1077;JEOL;Jens;Olsen;M;19-03-1973;DK;Møllevej 47;7430;Ikast;;CNC;CNC-operatør;Timeløn;37;02-08-2021;20-05-2022;Egen opsigelse;1005;7600;6212829438
+1078;CONI;Cornel;Niță;M;31-05-1978;RO;Bøgevej 87, 1. th.;7430;Ikast;;SVEJ;Svejser;Timeløn;37;01-09-2021;11-11-2022;Egen opsigelse;1010;3409;6776007675
+1079;KLPO;Klara;Poulsen;K;25-09-1974;DK;Lindevej 49;7430;Ikast;;CNC;Industritekniker;Timeløn;37;15-09-2021;;;1005;7730;1394713952
+1080;ANFL;Antonela;Florea;K;04-07-1992;RO;Lærkevej 47, 3.;7400;Herning;;LASB;Laseroperatør;Timeløn;37;01-11-2021;05-10-2023;Afskediget - arbejdsmangel;1023;7730;2997826410
+1081;HUTH;Hugo;Thygesen;M;22-02-1979;DK;Agervej 101;7430;Ikast;;LAK;Pulverlakerer;Timeløn;37;01-11-2021;17-10-2025;Egen opsigelse;1024;8117;4272648838
+1082;MAMA;Mathias;Madsen;M;12-01-1979;DK;Højvangen 105, 1. th.;7442;Engesvang;;LASB;Laseroperatør;Timeløn;37;03-01-2022;08-04-2022;Egen opsigelse;1023;6140;7830064773
+1083;JAKL;Jano;Klausen;M;12-10-1967;DK;Grønnegade 116;7430;Ikast;;LASB;Kantbukker;Timeløn;37;03-01-2022;05-10-2023;Afskediget - arbejdsmangel;1023;6880;7049456135
+1084;TEIV;Tejs;Iversen;M;19-03-1984;DK;Egevej 101A;7400;Herning;;LASB;Laseroperatør;Timeløn;37;03-01-2022;26-12-2025;Egen opsigelse;1023;9280;7820894471
+1085;ALJA;Alex;Jacobsen;M;20-06-1983;DK;Parkvej 41;7430;Ikast;;MONT;Montør;Timeløn;37;03-01-2022;11-02-2022;Egen opsigelse;1005;7730;3804278259
+1086;KAKA;Karlo;Karlsen;M;03-02-1987;DK;Markvej 86, 1. th.;7330;Brande;;SVEJ;Klejnsmed;Timeløn;37;15-03-2022;09-09-2022;Egen opsigelse;1010;9280;3781051986
+1087;KRJE;Kristian;Jepsen;M;10-02-1966;DK;Møllevej 5;7430;Ikast;;SVEJ;Svejser;Timeløn;37;01-03-2022;16-12-2022;Egen opsigelse;1010;1551;9032553261
+1088;ANLI;Anders;Lind;M;14-02-1992;DK;Egevej 115;7430;Ikast;;LAK;Pulverlakerer;Timeløn;37;01-03-2022;;;1024;7730;1738997902
+1089;STHO;Sten;Holm;M;29-05-1978;DK;Bøgevej 72;7430;Ikast;;MONT;Truckfører;Timeløn;37;01-03-2022;;;1005;6140;1422399772
+1090;FRLU;Frederikke;Lund;K;18-08-1985;DK;Skolevej 112;7430;Ikast;;LASB;Kantbukker;Timeløn;37;15-04-2022;;;1023;1551;3730582271
+1091;PASC;Palle;Schmidt;M;01-06-1974;DK;Tværgade 55, 3.;7400;Herning;;SVEJ;Robotoperatør;Timeløn;37;16-05-2022;05-08-2022;Afskediget - samarbejde;1010;5470;5556821320
+1092;FRMO;Frederik;Mogensen;M;07-02-1976;DK;Nørregade 18;7400;Herning;;SVEJ;Klejnsmed;Timeløn;37;16-05-2022;26-08-2022;Egen opsigelse;1010;9280;1476566052
+1093;JEJA;Jeppe;Kjær;M;10-12-1983;DK;Agervej 82;7470;Karup J;jeja@biksbaks.dk;LASB;CAD/CAM-programmør;Funktionær;37;01-06-2022;;;1023;5470;7121351610
+1094;CAOE;Catrine;Østergaard;K;02-11-1983;DK;Industrivej 20;7430;Ikast;;CNC;CNC-operatør;Timeløn;37;01-06-2022;20-01-2023;Egen opsigelse;1005;6140;4567522228
+1095;NIVE;Nils;Vestergaard;M;04-04-1979;DK;Skolevej 110, 3.;7430;Ikast;nive@biksbaks.dk;SALG;Sælger;Funktionær;37;01-07-2022;;;1008;9280;5024345717
+1096;IBJE;Ib;Jessen;M;06-03-1977;DK;Tranevej 63A;7400;Herning;ibje@biksbaks.dk;IND;Indkøbsassistent;Funktionær;37;15-07-2022;;;1005;7570;3862063529
+1097;FRNI;Frede;Nilsson;M;08-12-1982;DK;Drosselvej 77;7400;Herning;;SVEJ;Klejnsmed;Timeløn;37;01-07-2022;;;1010;7600;1355481295
+1098;LAVE;Laust;Vestergaard;M;18-06-1991;DK;Agervej 90;7400;Herning;;LAK;Ophænger;Timeløn;37;15-07-2022;19-09-2025;Egen opsigelse;1024;1551;9515378024
+1099;HEJE;Henry;Jeppesen;M;25-12-2003;DK;Agervej 106;7430;Ikast;;LASB;Lærling (smed);Lærling;37;15-08-2022;;;1023;7730;7417346623
+1100;MOCH;Morten;Christoffersen;M;07-07-1973;DK;Kirkevej 91B;7430;Ikast;;SVEJ;Svejser;Timeløn;37;15-08-2022;;;1010;8117;4444490979
+1101;DAKL;David;Klausen;M;03-12-1986;DK;Grønnegade 114, 3.;7361;Ejstrupholm;;LAK;Pulverlakerer;Timeløn;37;01-08-2022;;;1024;5470;1346521916
+1102;JOOL;Johannes;Olsen;M;23-05-1975;DK;Højvangen 30;7362;Hampen;;SVEJ;Klejnsmed;Timeløn;37;15-09-2022;05-10-2023;Afskediget - arbejdsmangel;1010;6140;7856835769
+1103;OEER;Øyvind;Eriksen;M;08-01-1981;DK;Pilevej 69, 1. tv.;7442;Engesvang;;LAK;Sandblæser;Timeløn;37;01-09-2022;;;1024;9280;2832121429
+1104;SVHO;Svenning;Holm;M;30-10-1994;DK;Spurvevej 114;7480;Vildbjerg;;SVEJ;Klejnsmed;Timeløn;37;17-10-2022;05-10-2023;Afskediget - arbejdsmangel;1010;7600;5472402212
+1105;RAJE;Ragnar;Jeppesen;M;26-10-2002;DK;Kløvervej 74A;7400;Herning;;SVEJ;Lærling (smed);Lærling;37;03-10-2022;;;1010;5470;4780859787
+1106;AKSK;Aksel;Skov;M;17-10-1986;DK;Søndergade 77;7480;Vildbjerg;;SVEJ;Svejser;Timeløn;37;02-01-2023;14-09-2023;Afskediget - arbejdsmangel;1010;7730;5551772033
+1107;BEBR;Benny;Bruun;M;16-09-1981;DK;Åvej 19;7451;Sunds;;SVEJ;Klejnsmed;Timeløn;37;02-01-2023;14-09-2023;Afskediget - arbejdsmangel;1010;6880;1762522681
+1108;ROES;Ronni;Jessen;M;30-04-2002;DK;Tværgade 16B;8620;Kjellerup;;CNC;Lærling (industritekniker);Lærling;37;01-02-2023;;;1005;7730;9557375337
+1109;RODR;Robert;Drewa;M;11-03-1983;PL;Toftevej 18;7400;Herning;;SVEJ;Klejnsmed;Timeløn;37;15-05-2023;14-09-2023;Afskediget - arbejdsmangel;1010;7600;1599090930
+1110;VIBA;Villads;Bach;M;15-11-1983;DK;Stationsvej 89A;7330;Brande;;SVEJ;Svejser;Timeløn;37;01-05-2023;;;1010;7570;1005015318
+1111;YAJA;Yannick;Jacobsen;M;16-08-1976;DK;Skolevej 62, 2. th.;7400;Herning;;LASB;Laseroperatør;Timeløn;37;15-08-2023;14-09-2023;Afskediget - arbejdsmangel;1023;9070;9831039940
+1112;AUDI;Aurelian;Dinu;M;23-10-1979;RO;Østergade 110A;7430;Ikast;;CNC;Industritekniker;Timeløn;37;01-09-2023;;;1005;5470;7667358695
+1113;ZEVO;Zeno;Voinea;M;28-11-1982;RO;Toftevej 118A;7400;Herning;;LASB;Laseroperatør;Timeløn;37;01-11-2023;;;1023;9070;2055745045
+1114;MAST;Mădălin;Stan;M;24-04-1985;RO;Vibevej 12A;7430;Ikast;;LASB;Laseroperatør;Timeløn;37;01-11-2023;;;1023;3409;8423943842
+1115;TIOL;Tim;Olesen;M;08-04-2006;DK;Søndergade 93;7490;Aulum;;SVEJ;Lærling (smed);Lærling;37;01-11-2023;;;1010;1551;6181525726
+1116;DECL;Dennis;Clausen;M;18-12-1978;DK;Birkevej 49, 1. tv.;7430;Ikast;decl@biksbaks.dk;LASB;CAD/CAM-programmør;Funktionær;37;01-01-2024;;;1023;9280;9226587544
+1117;IVAL;Ivan;Albu;M;03-12-1986;RO;Kirkevej 68A;7400;Herning;;LASB;Laseroperatør;Timeløn;37;01-01-2024;01-03-2024;Egen opsigelse;1023;6140;1885809852
+1118;GUAN;Gunnar;Andreasen;M;06-08-1982;DK;Bøgevej 12;7400;Herning;;LASB;Laseroperatør;Timeløn;37;01-02-2024;;;1023;1551;3669112660
+1119;MOHE;Mogens;Hermansen;M;25-08-1970;DK;Drosselvej 34A, 2. tv.;7490;Aulum;;LASB;Kantbukker;Timeløn;37;01-03-2024;;;1023;9280;1371988336
+1120;HEMA;Herman;Madsen;M;30-12-1973;DK;Parkvej 8;7361;Ejstrupholm;;SVEJ;Svejser;Timeløn;37;01-03-2024;;;1010;6880;4357870674
+1121;KOAC;Konstanty;Achtelik;M;14-10-1969;PL;Valmuevej 25;7430;Ikast;;LASB;Laseroperatør;Timeløn;37;01-04-2024;13-12-2024;Afskediget - samarbejde;1023;9070;4386983535
+1122;BELA;Benthe;Larsen;K;28-01-2005;DK;Kløvervej 35;7441;Bording;;SVEJ;Lærling (smed);Lærling;37;01-08-2024;;;1010;9280;7056825529
+1123;JYSK;Jytte;Skov;K;06-04-1977;DK;Lindevej 118, 2. tv.;7451;Sunds;jysk@biksbaks.dk;SALG;Tilbudsberegner;Funktionær;37;02-09-2024;;;1008;9070;3992935255
+1124;MABE;Magnus;Bertelsen;M;23-05-1984;DK;Lærkevej 119, 3.;7451;Sunds;;CNC;CNC-operatør;Timeløn;37;01-10-2024;;;1005;7730;3778970111
+1125;WOFO;Wojciech;Forysiak;M;16-02-1991;PL;Hybenvej 69;7430;Ikast;;SVEJ;Robotoperatør;Timeløn;37;01-11-2024;;;1010;1551;1722290936
+1126;NIJO;Niels;Jørgensen;M;23-10-1976;DK;Valmuevej 48;7480;Vildbjerg;;LASB;Kantbukker;Timeløn;37;15-01-2025;;;1023;3409;2117721275
+1127;ELMA;Elias;Madsen;M;23-11-1996;DK;Kastanievej 76;7441;Bording;;LASB;Laseroperatør;Timeløn;37;03-02-2025;31-10-2025;Egen opsigelse;1023;7600;8373902142
+1128;MOST;Morten;Steffensen;M;15-08-1985;DK;Tværgade 74B;7441;Bording;;MONT;Truckfører;Timeløn;37;03-02-2025;;;1005;9860;8232804104
+1129;ALSC;Alvin;Schultz;M;18-06-2005;DK;Pilevej 82;7362;Hampen;;LASB;Lærling (smed);Lærling;37;15-04-2025;;;1023;5470;6649340399
+1130;OLGR;Olfert;Gregersen;M;22-11-2005;DK;Granvej 109B;7470;Karup J;;SVEJ;Lærling (smed);Lærling;37;01-04-2025;;;1010;7730;3612485537
+1131;KAKJ;Karsten;Kjær;M;21-08-1978;DK;Hedevej 64B;7330;Brande;kakj@biksbaks.dk;ADM;Bogholder;Funktionær;37;01-05-2025;;;1002;6880;5738261474
+1132;ARTA;Arian;Tabacu;M;30-05-1978;RO;Spurvevej 15;7430;Ikast;;SVEJ;Svejser;Timeløn;37;02-06-2025;;;1010;9280;2112685489
+1133;KADA;Kåre;Danielsen;M;07-02-1978;DK;Tværgade 61;7400;Herning;;LAK;Sandblæser;Timeløn;37;02-06-2025;;;1024;8117;2188767704
+1134;KAJA;Karina;Kjær;K;26-01-1984;DK;Parkvej 41B;7430;Ikast;kaja@biksbaks.dk;IND;Indkøber;Funktionær;37;18-08-2025;;;1005;6140;4954050637
+1135;WEPA;Werner;Paulsen;M;23-01-1992;DK;Engvej 43;8600;Silkeborg;;SVEJ;Klejnsmed;Timeløn;37;01-08-2025;05-12-2025;Egen opsigelse;1010;7730;5170723761
+1136;SIBA;Silas;Bach;M;13-03-1988;DK;Industrivej 5B;7430;Ikast;;CNC;Industritekniker;Timeløn;37;01-08-2025;;;1005;8117;4704710337
+1137;MIJE;Mikkel;Jespersen;M;18-05-2004;DK;Nørregade 81A;7441;Bording;;LASB;Lærling (smed);Lærling;37;01-09-2025;;;1023;5470;5760199876
+1138;KAMA;Karlo;Madsen;M;09-09-2007;DK;Bøgevej 103;7451;Sunds;;CNC;Lærling (industritekniker);Lærling;37;01-09-2025;;;1005;7570;6963345602
+1139;BOWI;Bobby;Winther;M;16-11-1991;DK;Hedevej 61B;7400;Herning;;LAK;Sandblæser;Timeløn;37;15-10-2025;;;1024;6140;3782926868
+1140;ELBE;Elna;Bertelsen;K;23-09-1987;DK;Holmevej 90;8600;Silkeborg;;MONT;Montør;Timeløn;37;01-10-2025;;;1005;1551;3566827308
+1141;ANBR;Anton;Brandt;M;17-11-1981;DK;Holmevej 96, st.;7451;Sunds;anbr@biksbaks.dk;ADM;Receptionist;Funktionær;37;03-11-2025;;;1002;9070;7547572550
+1142;CHIV;Christopher;Iversen;M;10-05-1993;DK;Nørregade 43;7400;Herning;;SVEJ;Svejser;Timeløn;37;03-11-2025;;;1010;7570;9867803055
+1143;OLBE;Ole;Bech;M;23-03-1975;DK;Kastanievej 115, st.;7400;Herning;;LAK;Ophænger;Timeløn;37;17-11-2025;19-12-2025;Egen opsigelse;1024;5470;5489048223

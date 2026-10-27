@@ -1,0 +1,2486 @@
+{
+ "id": "651a6a701222edfdacb6edf8",
+ "name": "KPI-board",
+ "desc": "Månedlige KPI'er – gennemgås på kvartalsmøderne.",
+ "closed": false,
+ "dateLastActivity": "2025-12-05T08:59:00.000Z",
+ "members": [
+  {
+   "id": "5c2a9f70f7870e0c8e065f70",
+   "username": "cano",
+   "fullName": "Camilla Nørgaard"
+  },
+  {
+   "id": "5c2a9f70782a3aaf6421a739",
+   "username": "meba",
+   "fullName": "Mette Baksgaard"
+  }
+ ],
+ "lists": [
+  {
+   "id": "651a6a708095fce17e2f9662",
+   "name": "KPI'er",
+   "closed": false,
+   "pos": 16384
+  },
+  {
+   "id": "651a6a70c57238459d6bb06f",
+   "name": "Indsatser",
+   "closed": false,
+   "pos": 32768
+  },
+  {
+   "id": "651a6a70b0fd91bc3b159f67",
+   "name": "Afsluttet",
+   "closed": false,
+   "pos": 49152
+  }
+ ],
+ "cards": [
+  {
+   "id": "651a6cc83814907cfcba44ae",
+   "name": "Leveringspræcision",
+   "desc": "",
+   "idList": "651a6a708095fce17e2f9662",
+   "due": null,
+   "dueComplete": false,
+   "closed": false,
+   "dateLastActivity": "2025-12-05T08:21:00.000Z",
+   "idMembers": [
+    "5c2a9f70782a3aaf6421a739"
+   ],
+   "labels": [],
+   "idBoard": "651a6a701222edfdacb6edf8"
+  },
+  {
+   "id": "651a6cc8e06e4b2b81a52eb9",
+   "name": "Kundereklamationer",
+   "desc": "",
+   "idList": "651a6a708095fce17e2f9662",
+   "due": null,
+   "dueComplete": false,
+   "closed": false,
+   "dateLastActivity": "2025-12-05T08:59:00.000Z",
+   "idMembers": [
+    "5c2a9f70782a3aaf6421a739"
+   ],
+   "labels": [],
+   "idBoard": "651a6a701222edfdacb6edf8"
+  },
+  {
+   "id": "651a6cc82766970154208143",
+   "name": "Kassation",
+   "desc": "",
+   "idList": "651a6a708095fce17e2f9662",
+   "due": null,
+   "dueComplete": false,
+   "closed": false,
+   "dateLastActivity": "2025-12-05T07:18:00.000Z",
+   "idMembers": [
+    "5c2a9f70782a3aaf6421a739"
+   ],
+   "labels": [],
+   "idBoard": "651a6a701222edfdacb6edf8"
+  },
+  {
+   "id": "651a6cc8a011f2fec9c53b48",
+   "name": "OEE laser",
+   "desc": "",
+   "idList": "651a6a708095fce17e2f9662",
+   "due": null,
+   "dueComplete": false,
+   "closed": false,
+   "dateLastActivity": "2025-12-05T07:55:00.000Z",
+   "idMembers": [
+    "5c2a9f70782a3aaf6421a739"
+   ],
+   "labels": [],
+   "idBoard": "651a6a701222edfdacb6edf8"
+  },
+  {
+   "id": "651a6cc8062c870b4977f727",
+   "name": "Sygefravær",
+   "desc": "",
+   "idList": "651a6a708095fce17e2f9662",
+   "due": null,
+   "dueComplete": false,
+   "closed": false,
+   "dateLastActivity": "2025-12-05T08:35:00.000Z",
+   "idMembers": [
+    "5c2a9f70782a3aaf6421a739"
+   ],
+   "labels": [],
+   "idBoard": "651a6a701222edfdacb6edf8"
+  },
+  {
+   "id": "651a6cc8b9b395a9bc477571",
+   "name": "DSO",
+   "desc": "",
+   "idList": "651a6a708095fce17e2f9662",
+   "due": null,
+   "dueComplete": false,
+   "closed": false,
+   "dateLastActivity": "2025-12-05T08:30:00.000Z",
+   "idMembers": [
+    "5c2a9f70782a3aaf6421a739"
+   ],
+   "labels": [],
+   "idBoard": "651a6a701222edfdacb6edf8"
+  }
+ ],
+ "checklists": [],
+ "actions": [
+  {
+   "id": "69329ed49cb7e336fcabe106",
+   "type": "commentCard",
+   "date": "2025-12-05T08:59:00.000Z",
+   "idMemberCreator": "5c2a9f70782a3aaf6421a739",
+   "data": {
+    "card": {
+     "id": "651a6cc8e06e4b2b81a52eb9",
+     "name": "Kundereklamationer"
+    },
+    "text": "2025-11: 17 stk,"
+   }
+  },
+  {
+   "id": "693299341886ab62a20cfcd0",
+   "type": "commentCard",
+   "date": "2025-12-05T08:35:00.000Z",
+   "idMemberCreator": "5c2a9f70782a3aaf6421a739",
+   "data": {
+    "card": {
+     "id": "651a6cc8062c870b4977f727",
+     "name": "Sygefravær"
+    },
+    "text": "2025-11: 5,3 %"
+   }
+  },
+  {
+   "id": "69329808fb70800ca43f181b",
+   "type": "commentCard",
+   "date": "2025-12-05T08:30:00.000Z",
+   "idMemberCreator": "5c2a9f70782a3aaf6421a739",
+   "data": {
+    "card": {
+     "id": "651a6cc8b9b395a9bc477571",
+     "name": "DSO"
+    },
+    "text": "2025-11: 48 dage"
+   }
+  },
+  {
+   "id": "693295ec60c80fd232ab7bcd",
+   "type": "commentCard",
+   "date": "2025-12-05T08:21:00.000Z",
+   "idMemberCreator": "5c2a9f70782a3aaf6421a739",
+   "data": {
+    "card": {
+     "id": "651a6cc83814907cfcba44ae",
+     "name": "Leveringspræcision"
+    },
+    "text": "2025-11: 88,1 %"
+   }
+  },
+  {
+   "id": "69328fd4858ddea8d7a859d7",
+   "type": "commentCard",
+   "date": "2025-12-05T07:55:00.000Z",
+   "idMemberCreator": "5c2a9f70f7870e0c8e065f70",
+   "data": {
+    "card": {
+     "id": "651a6cc8a011f2fec9c53b48",
+     "name": "OEE laser"
+    },
+    "text": "2025-11: 72,4 %"
+   }
+  },
+  {
+   "id": "69328728d687ef0780f7b6d7",
+   "type": "commentCard",
+   "date": "2025-12-05T07:18:00.000Z",
+   "idMemberCreator": "5c2a9f70782a3aaf6421a739",
+   "data": {
+    "card": {
+     "id": "651a6cc82766970154208143",
+     "name": "Kassation"
+    },
+    "text": "2025-11: 0,77 %"
+   }
+  },
+  {
+   "id": "690db15037ae85995ae4d6f6",
+   "type": "commentCard",
+   "date": "2025-11-07T08:44:00.000Z",
+   "idMemberCreator": "5c2a9f70782a3aaf6421a739",
+   "data": {
+    "card": {
+     "id": "651a6cc8e06e4b2b81a52eb9",
+     "name": "Kundereklamationer"
+    },
+    "text": "2025-10: 15 stk,"
+   }
+  },
+  {
+   "id": "690daface105af32c505c63f",
+   "type": "commentCard",
+   "date": "2025-11-07T08:37:00.000Z",
+   "idMemberCreator": "5c2a9f70782a3aaf6421a739",
+   "data": {
+    "card": {
+     "id": "651a6cc83814907cfcba44ae",
+     "name": "Leveringspræcision"
+    },
+    "text": "2025-10: 89,5 %"
+   }
+  },
+  {
+   "id": "690da4a8b76b7f16d6dfb13b",
+   "type": "commentCard",
+   "date": "2025-11-07T07:50:00.000Z",
+   "idMemberCreator": "5c2a9f70782a3aaf6421a739",
+   "data": {
+    "card": {
+     "id": "651a6cc82766970154208143",
+     "name": "Kassation"
+    },
+    "text": "2025-10: 0,79 %"
+   }
+  },
+  {
+   "id": "690da0e80c24c66a2e58ef86",
+   "type": "commentCard",
+   "date": "2025-11-07T07:34:00.000Z",
+   "idMemberCreator": "5c2a9f70782a3aaf6421a739",
+   "data": {
+    "card": {
+     "id": "651a6cc8b9b395a9bc477571",
+     "name": "DSO"
+    },
+    "text": "2025-10: 45 dage"
+   }
+  },
+  {
+   "id": "690d9e9027dc45cf6cd5dd27",
+   "type": "commentCard",
+   "date": "2025-11-07T07:24:00.000Z",
+   "idMemberCreator": "5c2a9f70f7870e0c8e065f70",
+   "data": {
+    "card": {
+     "id": "651a6cc8a011f2fec9c53b48",
+     "name": "OEE laser"
+    },
+    "text": "2025-10: 76,8 %"
+   }
+  },
+  {
+   "id": "690d99a4b0afca0e3566f01a",
+   "type": "commentCard",
+   "date": "2025-11-07T07:03:00.000Z",
+   "idMemberCreator": "5c2a9f70782a3aaf6421a739",
+   "data": {
+    "card": {
+     "id": "651a6cc8062c870b4977f727",
+     "name": "Sygefravær"
+    },
+    "text": "2025-10: 5,1 %"
+   }
+  },
+  {
+   "id": "68e4c4fc33c25b8648533326",
+   "type": "commentCard",
+   "date": "2025-10-07T07:45:00.000Z",
+   "idMemberCreator": "5c2a9f70782a3aaf6421a739",
+   "data": {
+    "card": {
+     "id": "651a6cc8062c870b4977f727",
+     "name": "Sygefravær"
+    },
+    "text": "2025-09: 2,3 %"
+   }
+  },
+  {
+   "id": "68e4c268acaf13d44c172029",
+   "type": "commentCard",
+   "date": "2025-10-07T07:34:00.000Z",
+   "idMemberCreator": "5c2a9f70782a3aaf6421a739",
+   "data": {
+    "card": {
+     "id": "651a6cc8b9b395a9bc477571",
+     "name": "DSO"
+    },
+    "text": "2025-09: 57 dage"
+   }
+  },
+  {
+   "id": "68e4b764c90fac565cb48bbb",
+   "type": "commentCard",
+   "date": "2025-10-07T06:47:00.000Z",
+   "idMemberCreator": "5c2a9f70782a3aaf6421a739",
+   "data": {
+    "card": {
+     "id": "651a6cc8e06e4b2b81a52eb9",
+     "name": "Kundereklamationer"
+    },
+    "text": "2025-09: 18 stk,"
+   }
+  },
+  {
+   "id": "68e4b3a4998b229e75592a02",
+   "type": "commentCard",
+   "date": "2025-10-07T06:31:00.000Z",
+   "idMemberCreator": "5c2a9f70f7870e0c8e065f70",
+   "data": {
+    "card": {
+     "id": "651a6cc8a011f2fec9c53b48",
+     "name": "OEE laser"
+    },
+    "text": "2025-09: 75,0 %"
+   }
+  },
+  {
+   "id": "68e4aeb80934b5348507e703",
+   "type": "commentCard",
+   "date": "2025-10-07T06:10:00.000Z",
+   "idMemberCreator": "5c2a9f70782a3aaf6421a739",
+   "data": {
+    "card": {
+     "id": "651a6cc82766970154208143",
+     "name": "Kassation"
+    },
+    "text": "2025-09: 0,85 %"
+   }
+  },
+  {
+   "id": "68e4ac9caa12955f03511629",
+   "type": "commentCard",
+   "date": "2025-10-07T06:01:00.000Z",
+   "idMemberCreator": "5c2a9f70782a3aaf6421a739",
+   "data": {
+    "card": {
+     "id": "651a6cc83814907cfcba44ae",
+     "name": "Leveringspræcision"
+    },
+    "text": "2025-09: 88,0 %"
+   }
+  },
+  {
+   "id": "68ba948409ac2dda42646b8c",
+   "type": "commentCard",
+   "date": "2025-09-05T07:43:00.000Z",
+   "idMemberCreator": "5c2a9f70782a3aaf6421a739",
+   "data": {
+    "card": {
+     "id": "651a6cc82766970154208143",
+     "name": "Kassation"
+    },
+    "text": "2025-08: 0,79 %"
+   }
+  },
+  {
+   "id": "68ba93d06a7a65ce8d9c7fe1",
+   "type": "commentCard",
+   "date": "2025-09-05T07:40:00.000Z",
+   "idMemberCreator": "5c2a9f70782a3aaf6421a739",
+   "data": {
+    "card": {
+     "id": "651a6cc8062c870b4977f727",
+     "name": "Sygefravær"
+    },
+    "text": "2025-08: 2,1 %"
+   }
+  },
+  {
+   "id": "68ba9268b0f0ac2cd649f79d",
+   "type": "commentCard",
+   "date": "2025-09-05T07:34:00.000Z",
+   "idMemberCreator": "5c2a9f70782a3aaf6421a739",
+   "data": {
+    "card": {
+     "id": "651a6cc83814907cfcba44ae",
+     "name": "Leveringspræcision"
+    },
+    "text": "2025-08: 88,4 %"
+   }
+  },
+  {
+   "id": "68ba8ee4daec0d5319c6805b",
+   "type": "commentCard",
+   "date": "2025-09-05T07:19:00.000Z",
+   "idMemberCreator": "5c2a9f70782a3aaf6421a739",
+   "data": {
+    "card": {
+     "id": "651a6cc8b9b395a9bc477571",
+     "name": "DSO"
+    },
+    "text": "2025-08: 48 dage"
+   }
+  },
+  {
+   "id": "68ba89f8da6cb209e18720e7",
+   "type": "commentCard",
+   "date": "2025-09-05T06:58:00.000Z",
+   "idMemberCreator": "5c2a9f70782a3aaf6421a739",
+   "data": {
+    "card": {
+     "id": "651a6cc8e06e4b2b81a52eb9",
+     "name": "Kundereklamationer"
+    },
+    "text": "2025-08: 7 stk,"
+   }
+  },
+  {
+   "id": "68ba7ef4c340f7cfd22ab3b0",
+   "type": "commentCard",
+   "date": "2025-09-05T06:11:00.000Z",
+   "idMemberCreator": "5c2a9f70f7870e0c8e065f70",
+   "data": {
+    "card": {
+     "id": "651a6cc8a011f2fec9c53b48",
+     "name": "OEE laser"
+    },
+    "text": "2025-08: 76,6 %"
+   }
+  },
+  {
+   "id": "68945850c0920c540965ca3e",
+   "type": "commentCard",
+   "date": "2025-08-07T07:40:00.000Z",
+   "idMemberCreator": "5c2a9f70782a3aaf6421a739",
+   "data": {
+    "card": {
+     "id": "651a6cc83814907cfcba44ae",
+     "name": "Leveringspræcision"
+    },
+    "text": "2025-07: 82,5 %"
+   }
+  },
+  {
+   "id": "689456701ac818d3b1e1a3f8",
+   "type": "commentCard",
+   "date": "2025-08-07T07:32:00.000Z",
+   "idMemberCreator": "5c2a9f70f7870e0c8e065f70",
+   "data": {
+    "card": {
+     "id": "651a6cc8a011f2fec9c53b48",
+     "name": "OEE laser"
+    },
+    "text": "2025-07: 75,7 %"
+   }
+  },
+  {
+   "id": "68944c5cc41aa98770cbe056",
+   "type": "commentCard",
+   "date": "2025-08-07T06:49:00.000Z",
+   "idMemberCreator": "5c2a9f70782a3aaf6421a739",
+   "data": {
+    "card": {
+     "id": "651a6cc8b9b395a9bc477571",
+     "name": "DSO"
+    },
+    "text": "2025-07: 33 dage"
+   }
+  },
+  {
+   "id": "68944ab82e06f38c011929f0",
+   "type": "commentCard",
+   "date": "2025-08-07T06:42:00.000Z",
+   "idMemberCreator": "5c2a9f70782a3aaf6421a739",
+   "data": {
+    "card": {
+     "id": "651a6cc8062c870b4977f727",
+     "name": "Sygefravær"
+    },
+    "text": "2025-07: 0,8 %"
+   }
+  },
+  {
+   "id": "6894473489e7ae68925a6626",
+   "type": "commentCard",
+   "date": "2025-08-07T06:27:00.000Z",
+   "idMemberCreator": "5c2a9f70782a3aaf6421a739",
+   "data": {
+    "card": {
+     "id": "651a6cc8e06e4b2b81a52eb9",
+     "name": "Kundereklamationer"
+    },
+    "text": "2025-07: 12 stk,"
+   }
+  },
+  {
+   "id": "68944248d73b03809176504e",
+   "type": "commentCard",
+   "date": "2025-08-07T06:06:00.000Z",
+   "idMemberCreator": "5c2a9f70782a3aaf6421a739",
+   "data": {
+    "card": {
+     "id": "651a6cc82766970154208143",
+     "name": "Kassation"
+    },
+    "text": "2025-07: 0,83 %"
+   }
+  },
+  {
+   "id": "686b7994d338e832c9d56ccb",
+   "type": "commentCard",
+   "date": "2025-07-07T07:39:00.000Z",
+   "idMemberCreator": "5c2a9f70782a3aaf6421a739",
+   "data": {
+    "card": {
+     "id": "651a6cc82766970154208143",
+     "name": "Kassation"
+    },
+    "text": "2025-06: 0,86 %"
+   }
+  },
+  {
+   "id": "686b7598465d26b2d8a734d0",
+   "type": "commentCard",
+   "date": "2025-07-07T07:22:00.000Z",
+   "idMemberCreator": "5c2a9f70782a3aaf6421a739",
+   "data": {
+    "card": {
+     "id": "651a6cc8062c870b4977f727",
+     "name": "Sygefravær"
+    },
+    "text": "2025-06: 1,7 %"
+   }
+  },
+  {
+   "id": "686b6f08615cfacdf7ebb262",
+   "type": "commentCard",
+   "date": "2025-07-07T06:54:00.000Z",
+   "idMemberCreator": "5c2a9f70782a3aaf6421a739",
+   "data": {
+    "card": {
+     "id": "651a6cc83814907cfcba44ae",
+     "name": "Leveringspræcision"
+    },
+    "text": "2025-06: 88,1 %"
+   }
+  },
+  {
+   "id": "686b68004e953de76cfafd7f",
+   "type": "commentCard",
+   "date": "2025-07-07T06:24:00.000Z",
+   "idMemberCreator": "5c2a9f70782a3aaf6421a739",
+   "data": {
+    "card": {
+     "id": "651a6cc8e06e4b2b81a52eb9",
+     "name": "Kundereklamationer"
+    },
+    "text": "2025-06: 13 stk,"
+   }
+  },
+  {
+   "id": "686b66d432db1393eb0ed7a4",
+   "type": "commentCard",
+   "date": "2025-07-07T06:19:00.000Z",
+   "idMemberCreator": "5c2a9f70f7870e0c8e065f70",
+   "data": {
+    "card": {
+     "id": "651a6cc8a011f2fec9c53b48",
+     "name": "OEE laser"
+    },
+    "text": "2025-06: 79,4 %"
+   }
+  },
+  {
+   "id": "686b62d87b1140dc78c340a1",
+   "type": "commentCard",
+   "date": "2025-07-07T06:02:00.000Z",
+   "idMemberCreator": "5c2a9f70782a3aaf6421a739",
+   "data": {
+    "card": {
+     "id": "651a6cc8b9b395a9bc477571",
+     "name": "DSO"
+    },
+    "text": "2025-06: 50 dage"
+   }
+  },
+  {
+   "id": "68429fc47bdc5ab65751dff1",
+   "type": "commentCard",
+   "date": "2025-06-06T07:59:00.000Z",
+   "idMemberCreator": "5c2a9f70782a3aaf6421a739",
+   "data": {
+    "card": {
+     "id": "651a6cc8e06e4b2b81a52eb9",
+     "name": "Kundereklamationer"
+    },
+    "text": "2025-05: 10 stk,"
+   }
+  },
+  {
+   "id": "68429f4c8fb561aaa802638b",
+   "type": "commentCard",
+   "date": "2025-06-06T07:57:00.000Z",
+   "idMemberCreator": "5c2a9f70782a3aaf6421a739",
+   "data": {
+    "card": {
+     "id": "651a6cc8062c870b4977f727",
+     "name": "Sygefravær"
+    },
+    "text": "2025-05: 2,4 %"
+   }
+  },
+  {
+   "id": "68429cb8d1960af16744e807",
+   "type": "commentCard",
+   "date": "2025-06-06T07:46:00.000Z",
+   "idMemberCreator": "5c2a9f70782a3aaf6421a739",
+   "data": {
+    "card": {
+     "id": "651a6cc82766970154208143",
+     "name": "Kassation"
+    },
+    "text": "2025-05: 0,80 %"
+   }
+  },
+  {
+   "id": "68428fd418e769b9fc4a9209",
+   "type": "commentCard",
+   "date": "2025-06-06T06:51:00.000Z",
+   "idMemberCreator": "5c2a9f70782a3aaf6421a739",
+   "data": {
+    "card": {
+     "id": "651a6cc83814907cfcba44ae",
+     "name": "Leveringspræcision"
+    },
+    "text": "2025-05: 86,4 %"
+   }
+  },
+  {
+   "id": "68428c50469e8d656df4533a",
+   "type": "commentCard",
+   "date": "2025-06-06T06:36:00.000Z",
+   "idMemberCreator": "5c2a9f70f7870e0c8e065f70",
+   "data": {
+    "card": {
+     "id": "651a6cc8a011f2fec9c53b48",
+     "name": "OEE laser"
+    },
+    "text": "2025-05: 73,2 %"
+   }
+  },
+  {
+   "id": "684289802a8428af35fdb280",
+   "type": "commentCard",
+   "date": "2025-06-06T06:24:00.000Z",
+   "idMemberCreator": "5c2a9f70782a3aaf6421a739",
+   "data": {
+    "card": {
+     "id": "651a6cc8b9b395a9bc477571",
+     "name": "DSO"
+    },
+    "text": "2025-05: 46 dage"
+   }
+  },
+  {
+   "id": "681b11986771ae31361497f7",
+   "type": "commentCard",
+   "date": "2025-05-07T07:54:00.000Z",
+   "idMemberCreator": "5c2a9f70782a3aaf6421a739",
+   "data": {
+    "card": {
+     "id": "651a6cc82766970154208143",
+     "name": "Kassation"
+    },
+    "text": "2025-04: 0,79 %"
+   }
+  },
+  {
+   "id": "681b0694374c37ec1067b7d3",
+   "type": "commentCard",
+   "date": "2025-05-07T07:07:00.000Z",
+   "idMemberCreator": "5c2a9f70782a3aaf6421a739",
+   "data": {
+    "card": {
+     "id": "651a6cc8e06e4b2b81a52eb9",
+     "name": "Kundereklamationer"
+    },
+    "text": "2025-04: 19 stk,"
+   }
+  },
+  {
+   "id": "681b0298ed950bf495e5d6e2",
+   "type": "commentCard",
+   "date": "2025-05-07T06:50:00.000Z",
+   "idMemberCreator": "5c2a9f70782a3aaf6421a739",
+   "data": {
+    "card": {
+     "id": "651a6cc83814907cfcba44ae",
+     "name": "Leveringspræcision"
+    },
+    "text": "2025-04: 87,1 %"
+   }
+  },
+  {
+   "id": "681aff14e1e6cc1ab42a205e",
+   "type": "commentCard",
+   "date": "2025-05-07T06:35:00.000Z",
+   "idMemberCreator": "5c2a9f70782a3aaf6421a739",
+   "data": {
+    "card": {
+     "id": "651a6cc8062c870b4977f727",
+     "name": "Sygefravær"
+    },
+    "text": "2025-04: 3,1 %"
+   }
+  },
+  {
+   "id": "681afa64c340d97b54ba5e59",
+   "type": "commentCard",
+   "date": "2025-05-07T06:15:00.000Z",
+   "idMemberCreator": "5c2a9f70f7870e0c8e065f70",
+   "data": {
+    "card": {
+     "id": "651a6cc8a011f2fec9c53b48",
+     "name": "OEE laser"
+    },
+    "text": "2025-04: 73,0 %"
+   }
+  },
+  {
+   "id": "681af9ec4c6631b2329c77be",
+   "type": "commentCard",
+   "date": "2025-05-07T06:13:00.000Z",
+   "idMemberCreator": "5c2a9f70782a3aaf6421a739",
+   "data": {
+    "card": {
+     "id": "651a6cc8b9b395a9bc477571",
+     "name": "DSO"
+    },
+    "text": "2025-04: 48 dage"
+   }
+  },
+  {
+   "id": "67f384207b913e8de13feb58",
+   "type": "commentCard",
+   "date": "2025-04-07T07:52:00.000Z",
+   "idMemberCreator": "5c2a9f70782a3aaf6421a739",
+   "data": {
+    "card": {
+     "id": "651a6cc83814907cfcba44ae",
+     "name": "Leveringspræcision"
+    },
+    "text": "2025-03: 86,1 %"
+   }
+  },
+  {
+   "id": "67f374e44d76ebe607137ea6",
+   "type": "commentCard",
+   "date": "2025-04-07T06:47:00.000Z",
+   "idMemberCreator": "5c2a9f70782a3aaf6421a739",
+   "data": {
+    "card": {
+     "id": "651a6cc8b9b395a9bc477571",
+     "name": "DSO"
+    },
+    "text": "2025-03: 50 dage"
+   }
+  },
+  {
+   "id": "67f37160b833b92d0ab38203",
+   "type": "commentCard",
+   "date": "2025-04-07T06:32:00.000Z",
+   "idMemberCreator": "5c2a9f70782a3aaf6421a739",
+   "data": {
+    "card": {
+     "id": "651a6cc8062c870b4977f727",
+     "name": "Sygefravær"
+    },
+    "text": "2025-03: 5,0 %"
+   }
+  },
+  {
+   "id": "67f370349670e9ca99806f1e",
+   "type": "commentCard",
+   "date": "2025-04-07T06:27:00.000Z",
+   "idMemberCreator": "5c2a9f70f7870e0c8e065f70",
+   "data": {
+    "card": {
+     "id": "651a6cc8a011f2fec9c53b48",
+     "name": "OEE laser"
+    },
+    "text": "2025-03: 77,6 %"
+   }
+  },
+  {
+   "id": "67f36e907dff97c087215046",
+   "type": "commentCard",
+   "date": "2025-04-07T06:20:00.000Z",
+   "idMemberCreator": "5c2a9f70782a3aaf6421a739",
+   "data": {
+    "card": {
+     "id": "651a6cc8e06e4b2b81a52eb9",
+     "name": "Kundereklamationer"
+    },
+    "text": "2025-03: 30 stk,"
+   }
+  },
+  {
+   "id": "67f36e18f7a6ac5b07882137",
+   "type": "commentCard",
+   "date": "2025-04-07T06:18:00.000Z",
+   "idMemberCreator": "5c2a9f70782a3aaf6421a739",
+   "data": {
+    "card": {
+     "id": "651a6cc82766970154208143",
+     "name": "Kassation"
+    },
+    "text": "2025-03: 0,81 %"
+   }
+  },
+  {
+   "id": "67caabb85368312dfd16737e",
+   "type": "commentCard",
+   "date": "2025-03-07T08:18:00.000Z",
+   "idMemberCreator": "5c2a9f70782a3aaf6421a739",
+   "data": {
+    "card": {
+     "id": "651a6cc83814907cfcba44ae",
+     "name": "Leveringspræcision"
+    },
+    "text": "2025-02: 84,5 %"
+   }
+  },
+  {
+   "id": "67caabb8ddfd6ecc097db2b9",
+   "type": "commentCard",
+   "date": "2025-03-07T08:18:00.000Z",
+   "idMemberCreator": "5c2a9f70782a3aaf6421a739",
+   "data": {
+    "card": {
+     "id": "651a6cc82766970154208143",
+     "name": "Kassation"
+    },
+    "text": "2025-02: 0,90 %"
+   }
+  },
+  {
+   "id": "67caa2d0bee552b2ebc8ac09",
+   "type": "commentCard",
+   "date": "2025-03-07T07:40:00.000Z",
+   "idMemberCreator": "5c2a9f70782a3aaf6421a739",
+   "data": {
+    "card": {
+     "id": "651a6cc8062c870b4977f727",
+     "name": "Sygefravær"
+    },
+    "text": "2025-02: 3,7 %"
+   }
+  },
+  {
+   "id": "67ca9da8f6fe8488d064c1dc",
+   "type": "commentCard",
+   "date": "2025-03-07T07:18:00.000Z",
+   "idMemberCreator": "5c2a9f70782a3aaf6421a739",
+   "data": {
+    "card": {
+     "id": "651a6cc8e06e4b2b81a52eb9",
+     "name": "Kundereklamationer"
+    },
+    "text": "2025-02: 61 stk,"
+   }
+  },
+  {
+   "id": "67ca9cf4e4153ea49d76b029",
+   "type": "commentCard",
+   "date": "2025-03-07T07:15:00.000Z",
+   "idMemberCreator": "5c2a9f70f7870e0c8e065f70",
+   "data": {
+    "card": {
+     "id": "651a6cc8a011f2fec9c53b48",
+     "name": "OEE laser"
+    },
+    "text": "2025-02: 79,1 %"
+   }
+  },
+  {
+   "id": "67ca9cf4680727336958ec76",
+   "type": "commentCard",
+   "date": "2025-03-07T07:15:00.000Z",
+   "idMemberCreator": "5c2a9f70782a3aaf6421a739",
+   "data": {
+    "card": {
+     "id": "651a6cc8b9b395a9bc477571",
+     "name": "DSO"
+    },
+    "text": "2025-02: 58 dage"
+   }
+  },
+  {
+   "id": "67a5c3d4bde11021e9a32d1f",
+   "type": "commentCard",
+   "date": "2025-02-07T08:27:00.000Z",
+   "idMemberCreator": "5c2a9f70782a3aaf6421a739",
+   "data": {
+    "card": {
+     "id": "651a6cc83814907cfcba44ae",
+     "name": "Leveringspræcision"
+    },
+    "text": "2025-01: 86,2 %"
+   }
+  },
+  {
+   "id": "67a5c1f480b0ad35b2eaa269",
+   "type": "commentCard",
+   "date": "2025-02-07T08:19:00.000Z",
+   "idMemberCreator": "5c2a9f70782a3aaf6421a739",
+   "data": {
+    "card": {
+     "id": "651a6cc8e06e4b2b81a52eb9",
+     "name": "Kundereklamationer"
+    },
+    "text": "2025-01: 12 stk,"
+   }
+  },
+  {
+   "id": "67a5c14054cd4066aed44275",
+   "type": "commentCard",
+   "date": "2025-02-07T08:16:00.000Z",
+   "idMemberCreator": "5c2a9f70f7870e0c8e065f70",
+   "data": {
+    "card": {
+     "id": "651a6cc8a011f2fec9c53b48",
+     "name": "OEE laser"
+    },
+    "text": "2025-01: 75,8 %"
+   }
+  },
+  {
+   "id": "67a5b984e08a83e1cbb18eea",
+   "type": "commentCard",
+   "date": "2025-02-07T07:43:00.000Z",
+   "idMemberCreator": "5c2a9f70782a3aaf6421a739",
+   "data": {
+    "card": {
+     "id": "651a6cc8b9b395a9bc477571",
+     "name": "DSO"
+    },
+    "text": "2025-01: 46 dage"
+   }
+  },
+  {
+   "id": "67a5b6b4afffb477a25ce57c",
+   "type": "commentCard",
+   "date": "2025-02-07T07:31:00.000Z",
+   "idMemberCreator": "5c2a9f70782a3aaf6421a739",
+   "data": {
+    "card": {
+     "id": "651a6cc8062c870b4977f727",
+     "name": "Sygefravær"
+    },
+    "text": "2025-01: 6,1 %"
+   }
+  },
+  {
+   "id": "67a5b510cf678d49ad81e7d2",
+   "type": "commentCard",
+   "date": "2025-02-07T07:24:00.000Z",
+   "idMemberCreator": "5c2a9f70782a3aaf6421a739",
+   "data": {
+    "card": {
+     "id": "651a6cc82766970154208143",
+     "name": "Kassation"
+    },
+    "text": "2025-01: 1,12 %"
+   }
+  },
+  {
+   "id": "677e37c4202b3188f4a9995e",
+   "type": "commentCard",
+   "date": "2025-01-08T08:31:00.000Z",
+   "idMemberCreator": "5c2a9f70782a3aaf6421a739",
+   "data": {
+    "card": {
+     "id": "651a6cc8062c870b4977f727",
+     "name": "Sygefravær"
+    },
+    "text": "2024-12: 4,9 %"
+   }
+  },
+  {
+   "id": "677e3530b5ce2ae0aaab1a8e",
+   "type": "commentCard",
+   "date": "2025-01-08T08:20:00.000Z",
+   "idMemberCreator": "5c2a9f70782a3aaf6421a739",
+   "data": {
+    "card": {
+     "id": "651a6cc8e06e4b2b81a52eb9",
+     "name": "Kundereklamationer"
+    },
+    "text": "2024-12: 6 stk,"
+   }
+  },
+  {
+   "id": "677e32d8f01f28ff0f94c0df",
+   "type": "commentCard",
+   "date": "2025-01-08T08:10:00.000Z",
+   "idMemberCreator": "5c2a9f70782a3aaf6421a739",
+   "data": {
+    "card": {
+     "id": "651a6cc82766970154208143",
+     "name": "Kassation"
+    },
+    "text": "2024-12: 0,85 %"
+   }
+  },
+  {
+   "id": "677e2e28876295996f339fb4",
+   "type": "commentCard",
+   "date": "2025-01-08T07:50:00.000Z",
+   "idMemberCreator": "5c2a9f70f7870e0c8e065f70",
+   "data": {
+    "card": {
+     "id": "651a6cc8a011f2fec9c53b48",
+     "name": "OEE laser"
+    },
+    "text": "2024-12: 77,1 %"
+   }
+  },
+  {
+   "id": "677e2c84acdba4ae227839c5",
+   "type": "commentCard",
+   "date": "2025-01-08T07:43:00.000Z",
+   "idMemberCreator": "5c2a9f70782a3aaf6421a739",
+   "data": {
+    "card": {
+     "id": "651a6cc8b9b395a9bc477571",
+     "name": "DSO"
+    },
+    "text": "2024-12: 43 dage"
+   }
+  },
+  {
+   "id": "677e2c0c3fcd141be180cdee",
+   "type": "commentCard",
+   "date": "2025-01-08T07:41:00.000Z",
+   "idMemberCreator": "5c2a9f70782a3aaf6421a739",
+   "data": {
+    "card": {
+     "id": "651a6cc83814907cfcba44ae",
+     "name": "Leveringspræcision"
+    },
+    "text": "2024-12: 83,8 %"
+   }
+  },
+  {
+   "id": "6752b7e8ab860762c46f06e4",
+   "type": "commentCard",
+   "date": "2024-12-06T08:38:00.000Z",
+   "idMemberCreator": "5c2a9f70782a3aaf6421a739",
+   "data": {
+    "card": {
+     "id": "651a6cc8062c870b4977f727",
+     "name": "Sygefravær"
+    },
+    "text": "2024-11: 6,6 %"
+   }
+  },
+  {
+   "id": "6752b6f84532161fffc13323",
+   "type": "commentCard",
+   "date": "2024-12-06T08:34:00.000Z",
+   "idMemberCreator": "5c2a9f70782a3aaf6421a739",
+   "data": {
+    "card": {
+     "id": "651a6cc8e06e4b2b81a52eb9",
+     "name": "Kundereklamationer"
+    },
+    "text": "2024-11: 5 stk,"
+   }
+  },
+  {
+   "id": "6752b5908d7f7cb76db91f4e",
+   "type": "commentCard",
+   "date": "2024-12-06T08:28:00.000Z",
+   "idMemberCreator": "5c2a9f70f7870e0c8e065f70",
+   "data": {
+    "card": {
+     "id": "651a6cc8a011f2fec9c53b48",
+     "name": "OEE laser"
+    },
+    "text": "2024-11: 79,2 %"
+   }
+  },
+  {
+   "id": "6752a6cc4c3c3925406b048b",
+   "type": "commentCard",
+   "date": "2024-12-06T07:25:00.000Z",
+   "idMemberCreator": "5c2a9f70782a3aaf6421a739",
+   "data": {
+    "card": {
+     "id": "651a6cc82766970154208143",
+     "name": "Kassation"
+    },
+    "text": "2024-11: 0,78 %"
+   }
+  },
+  {
+   "id": "6752a21c952b55a51fa5315a",
+   "type": "commentCard",
+   "date": "2024-12-06T07:05:00.000Z",
+   "idMemberCreator": "5c2a9f70782a3aaf6421a739",
+   "data": {
+    "card": {
+     "id": "651a6cc8b9b395a9bc477571",
+     "name": "DSO"
+    },
+    "text": "2024-11: 53 dage"
+   }
+  },
+  {
+   "id": "6752a1a47f784b6fe9ff81ee",
+   "type": "commentCard",
+   "date": "2024-12-06T07:03:00.000Z",
+   "idMemberCreator": "5c2a9f70782a3aaf6421a739",
+   "data": {
+    "card": {
+     "id": "651a6cc83814907cfcba44ae",
+     "name": "Leveringspræcision"
+    },
+    "text": "2024-11: 87,2 %"
+   }
+  },
+  {
+   "id": "672c7d94d041c14a29db7e3a",
+   "type": "commentCard",
+   "date": "2024-11-07T08:43:00.000Z",
+   "idMemberCreator": "5c2a9f70f7870e0c8e065f70",
+   "data": {
+    "card": {
+     "id": "651a6cc8a011f2fec9c53b48",
+     "name": "OEE laser"
+    },
+    "text": "2024-10: 75,1 %"
+   }
+  },
+  {
+   "id": "672c786c02f8e3cf8d2ab512",
+   "type": "commentCard",
+   "date": "2024-11-07T08:21:00.000Z",
+   "idMemberCreator": "5c2a9f70782a3aaf6421a739",
+   "data": {
+    "card": {
+     "id": "651a6cc8e06e4b2b81a52eb9",
+     "name": "Kundereklamationer"
+    },
+    "text": "2024-10: 12 stk,"
+   }
+  },
+  {
+   "id": "672c73bc225aed457bf46f8e",
+   "type": "commentCard",
+   "date": "2024-11-07T08:01:00.000Z",
+   "idMemberCreator": "5c2a9f70782a3aaf6421a739",
+   "data": {
+    "card": {
+     "id": "651a6cc8b9b395a9bc477571",
+     "name": "DSO"
+    },
+    "text": "2024-10: 46 dage"
+   }
+  },
+  {
+   "id": "672c6930bf0122e8e5d5a854",
+   "type": "commentCard",
+   "date": "2024-11-07T07:16:00.000Z",
+   "idMemberCreator": "5c2a9f70782a3aaf6421a739",
+   "data": {
+    "card": {
+     "id": "651a6cc82766970154208143",
+     "name": "Kassation"
+    },
+    "text": "2024-10: 0,74 %"
+   }
+  },
+  {
+   "id": "672c669c5474387f762ed21b",
+   "type": "commentCard",
+   "date": "2024-11-07T07:05:00.000Z",
+   "idMemberCreator": "5c2a9f70782a3aaf6421a739",
+   "data": {
+    "card": {
+     "id": "651a6cc8062c870b4977f727",
+     "name": "Sygefravær"
+    },
+    "text": "2024-10: 4,6 %"
+   }
+  },
+  {
+   "id": "672c657023e0f13c29144df4",
+   "type": "commentCard",
+   "date": "2024-11-07T07:00:00.000Z",
+   "idMemberCreator": "5c2a9f70782a3aaf6421a739",
+   "data": {
+    "card": {
+     "id": "651a6cc83814907cfcba44ae",
+     "name": "Leveringspræcision"
+    },
+    "text": "2024-10: 86,8 %"
+   }
+  },
+  {
+   "id": "6703944ce26938832c0740a6",
+   "type": "commentCard",
+   "date": "2024-10-07T07:57:00.000Z",
+   "idMemberCreator": "5c2a9f70782a3aaf6421a739",
+   "data": {
+    "card": {
+     "id": "651a6cc82766970154208143",
+     "name": "Kassation"
+    },
+    "text": "2024-09: 0,83 %"
+   }
+  },
+  {
+   "id": "67038f60d202cb6d8fbecc9a",
+   "type": "commentCard",
+   "date": "2024-10-07T07:36:00.000Z",
+   "idMemberCreator": "5c2a9f70782a3aaf6421a739",
+   "data": {
+    "card": {
+     "id": "651a6cc8062c870b4977f727",
+     "name": "Sygefravær"
+    },
+    "text": "2024-09: 3,5 %"
+   }
+  },
+  {
+   "id": "67038a7450fb434e3d489a89",
+   "type": "commentCard",
+   "date": "2024-10-07T07:15:00.000Z",
+   "idMemberCreator": "5c2a9f70f7870e0c8e065f70",
+   "data": {
+    "card": {
+     "id": "651a6cc8a011f2fec9c53b48",
+     "name": "OEE laser"
+    },
+    "text": "2024-09: 73,8 %"
+   }
+  },
+  {
+   "id": "670386784f38ea2a402c006e",
+   "type": "commentCard",
+   "date": "2024-10-07T06:58:00.000Z",
+   "idMemberCreator": "5c2a9f70782a3aaf6421a739",
+   "data": {
+    "card": {
+     "id": "651a6cc8e06e4b2b81a52eb9",
+     "name": "Kundereklamationer"
+    },
+    "text": "2024-09: 12 stk,"
+   }
+  },
+  {
+   "id": "670382041e4d83c7fb8e843e",
+   "type": "commentCard",
+   "date": "2024-10-07T06:39:00.000Z",
+   "idMemberCreator": "5c2a9f70782a3aaf6421a739",
+   "data": {
+    "card": {
+     "id": "651a6cc8b9b395a9bc477571",
+     "name": "DSO"
+    },
+    "text": "2024-09: 60 dage"
+   }
+  },
+  {
+   "id": "67037d18f29fe11211735e17",
+   "type": "commentCard",
+   "date": "2024-10-07T06:18:00.000Z",
+   "idMemberCreator": "5c2a9f70782a3aaf6421a739",
+   "data": {
+    "card": {
+     "id": "651a6cc83814907cfcba44ae",
+     "name": "Leveringspræcision"
+    },
+    "text": "2024-09: 85,8 %"
+   }
+  },
+  {
+   "id": "66dab2fc5a9db7c2f47cb0e5",
+   "type": "commentCard",
+   "date": "2024-09-06T07:45:00.000Z",
+   "idMemberCreator": "5c2a9f70782a3aaf6421a739",
+   "data": {
+    "card": {
+     "id": "651a6cc82766970154208143",
+     "name": "Kassation"
+    },
+    "text": "2024-08: 0,80 %"
+   }
+  },
+  {
+   "id": "66daad2087770cafc5bb0ee0",
+   "type": "commentCard",
+   "date": "2024-09-06T07:20:00.000Z",
+   "idMemberCreator": "5c2a9f70f7870e0c8e065f70",
+   "data": {
+    "card": {
+     "id": "651a6cc8a011f2fec9c53b48",
+     "name": "OEE laser"
+    },
+    "text": "2024-08: 75,0 %"
+   }
+  },
+  {
+   "id": "66daa744db67ad646ebe7a1f",
+   "type": "commentCard",
+   "date": "2024-09-06T06:55:00.000Z",
+   "idMemberCreator": "5c2a9f70782a3aaf6421a739",
+   "data": {
+    "card": {
+     "id": "651a6cc83814907cfcba44ae",
+     "name": "Leveringspræcision"
+    },
+    "text": "2024-08: 86,8 %"
+   }
+  },
+  {
+   "id": "66daa5a0d79f73b2016f3e3a",
+   "type": "commentCard",
+   "date": "2024-09-06T06:48:00.000Z",
+   "idMemberCreator": "5c2a9f70782a3aaf6421a739",
+   "data": {
+    "card": {
+     "id": "651a6cc8e06e4b2b81a52eb9",
+     "name": "Kundereklamationer"
+    },
+    "text": "2024-08: 7 stk,"
+   }
+  },
+  {
+   "id": "66daa564362584d52701409f",
+   "type": "commentCard",
+   "date": "2024-09-06T06:47:00.000Z",
+   "idMemberCreator": "5c2a9f70782a3aaf6421a739",
+   "data": {
+    "card": {
+     "id": "651a6cc8062c870b4977f727",
+     "name": "Sygefravær"
+    },
+    "text": "2024-08: 4,3 %"
+   }
+  },
+  {
+   "id": "66da9f1024983ddf390377d8",
+   "type": "commentCard",
+   "date": "2024-09-06T06:20:00.000Z",
+   "idMemberCreator": "5c2a9f70782a3aaf6421a739",
+   "data": {
+    "card": {
+     "id": "651a6cc8b9b395a9bc477571",
+     "name": "DSO"
+    },
+    "text": "2024-08: 40 dage"
+   }
+  },
+  {
+   "id": "66b323e0aab4704144c087bf",
+   "type": "commentCard",
+   "date": "2024-08-07T07:36:00.000Z",
+   "idMemberCreator": "5c2a9f70782a3aaf6421a739",
+   "data": {
+    "card": {
+     "id": "651a6cc8b9b395a9bc477571",
+     "name": "DSO"
+    },
+    "text": "2024-07: 42 dage"
+   }
+  },
+  {
+   "id": "66b322f0fde2e08f70eee2b2",
+   "type": "commentCard",
+   "date": "2024-08-07T07:32:00.000Z",
+   "idMemberCreator": "5c2a9f70782a3aaf6421a739",
+   "data": {
+    "card": {
+     "id": "651a6cc82766970154208143",
+     "name": "Kassation"
+    },
+    "text": "2024-07: 0,86 %"
+   }
+  },
+  {
+   "id": "66b31990f23736703be9772e",
+   "type": "commentCard",
+   "date": "2024-08-07T06:52:00.000Z",
+   "idMemberCreator": "5c2a9f70782a3aaf6421a739",
+   "data": {
+    "card": {
+     "id": "651a6cc8062c870b4977f727",
+     "name": "Sygefravær"
+    },
+    "text": "2024-07: 1,7 %"
+   }
+  },
+  {
+   "id": "66b31918f44b463ffb025110",
+   "type": "commentCard",
+   "date": "2024-08-07T06:50:00.000Z",
+   "idMemberCreator": "5c2a9f70f7870e0c8e065f70",
+   "data": {
+    "card": {
+     "id": "651a6cc8a011f2fec9c53b48",
+     "name": "OEE laser"
+    },
+    "text": "2024-07: 75,6 %"
+   }
+  },
+  {
+   "id": "66b31774320a0cbc47ee7a43",
+   "type": "commentCard",
+   "date": "2024-08-07T06:43:00.000Z",
+   "idMemberCreator": "5c2a9f70782a3aaf6421a739",
+   "data": {
+    "card": {
+     "id": "651a6cc8e06e4b2b81a52eb9",
+     "name": "Kundereklamationer"
+    },
+    "text": "2024-07: 11 stk,"
+   }
+  },
+  {
+   "id": "66b316845a9302c4078a9fa3",
+   "type": "commentCard",
+   "date": "2024-08-07T06:39:00.000Z",
+   "idMemberCreator": "5c2a9f70782a3aaf6421a739",
+   "data": {
+    "card": {
+     "id": "651a6cc83814907cfcba44ae",
+     "name": "Leveringspræcision"
+    },
+    "text": "2024-07: 85,2 %"
+   }
+  },
+  {
+   "id": "6687a404bce983cd1165b036",
+   "type": "commentCard",
+   "date": "2024-07-05T07:43:00.000Z",
+   "idMemberCreator": "5c2a9f70782a3aaf6421a739",
+   "data": {
+    "card": {
+     "id": "651a6cc8062c870b4977f727",
+     "name": "Sygefravær"
+    },
+    "text": "2024-06: 3,2 %"
+   }
+  },
+  {
+   "id": "66879ea0c134c3a2147c7646",
+   "type": "commentCard",
+   "date": "2024-07-05T07:20:00.000Z",
+   "idMemberCreator": "5c2a9f70782a3aaf6421a739",
+   "data": {
+    "card": {
+     "id": "651a6cc83814907cfcba44ae",
+     "name": "Leveringspræcision"
+    },
+    "text": "2024-06: 86,1 %"
+   }
+  },
+  {
+   "id": "66879e28151566e38ec941b4",
+   "type": "commentCard",
+   "date": "2024-07-05T07:18:00.000Z",
+   "idMemberCreator": "5c2a9f70782a3aaf6421a739",
+   "data": {
+    "card": {
+     "id": "651a6cc8b9b395a9bc477571",
+     "name": "DSO"
+    },
+    "text": "2024-06: 55 dage"
+   }
+  },
+  {
+   "id": "66879cc0d917c58cffe8199d",
+   "type": "commentCard",
+   "date": "2024-07-05T07:12:00.000Z",
+   "idMemberCreator": "5c2a9f70782a3aaf6421a739",
+   "data": {
+    "card": {
+     "id": "651a6cc8e06e4b2b81a52eb9",
+     "name": "Kundereklamationer"
+    },
+    "text": "2024-06: 14 stk,"
+   }
+  },
+  {
+   "id": "668798c47ee5e178f2a23b18",
+   "type": "commentCard",
+   "date": "2024-07-05T06:55:00.000Z",
+   "idMemberCreator": "5c2a9f70782a3aaf6421a739",
+   "data": {
+    "card": {
+     "id": "651a6cc82766970154208143",
+     "name": "Kassation"
+    },
+    "text": "2024-06: 0,85 %"
+   }
+  },
+  {
+   "id": "668795f48e829cf95a90ca7c",
+   "type": "commentCard",
+   "date": "2024-07-05T06:43:00.000Z",
+   "idMemberCreator": "5c2a9f70f7870e0c8e065f70",
+   "data": {
+    "card": {
+     "id": "651a6cc8a011f2fec9c53b48",
+     "name": "OEE laser"
+    },
+    "text": "2024-06: 82,6 %"
+   }
+  },
+  {
+   "id": "6662b644e9cdf6e5d8b12acf",
+   "type": "commentCard",
+   "date": "2024-06-07T07:27:00.000Z",
+   "idMemberCreator": "5c2a9f70782a3aaf6421a739",
+   "data": {
+    "card": {
+     "id": "651a6cc8e06e4b2b81a52eb9",
+     "name": "Kundereklamationer"
+    },
+    "text": "2024-05: 3 stk,"
+   }
+  },
+  {
+   "id": "6662b59007be132284f5c600",
+   "type": "commentCard",
+   "date": "2024-06-07T07:24:00.000Z",
+   "idMemberCreator": "5c2a9f70782a3aaf6421a739",
+   "data": {
+    "card": {
+     "id": "651a6cc83814907cfcba44ae",
+     "name": "Leveringspræcision"
+    },
+    "text": "2024-05: 71,5 %"
+   }
+  },
+  {
+   "id": "6662b590bb914a14257018d7",
+   "type": "commentCard",
+   "date": "2024-06-07T07:24:00.000Z",
+   "idMemberCreator": "5c2a9f70f7870e0c8e065f70",
+   "data": {
+    "card": {
+     "id": "651a6cc8a011f2fec9c53b48",
+     "name": "OEE laser"
+    },
+    "text": "2024-05: 74,6 %"
+   }
+  },
+  {
+   "id": "6662a780f07420ccb00a3ea3",
+   "type": "commentCard",
+   "date": "2024-06-07T06:24:00.000Z",
+   "idMemberCreator": "5c2a9f70782a3aaf6421a739",
+   "data": {
+    "card": {
+     "id": "651a6cc8b9b395a9bc477571",
+     "name": "DSO"
+    },
+    "text": "2024-05: 54 dage"
+   }
+  },
+  {
+   "id": "6662a4ecc8069cd0c855e878",
+   "type": "commentCard",
+   "date": "2024-06-07T06:13:00.000Z",
+   "idMemberCreator": "5c2a9f70782a3aaf6421a739",
+   "data": {
+    "card": {
+     "id": "651a6cc8062c870b4977f727",
+     "name": "Sygefravær"
+    },
+    "text": "2024-05: 2,4 %"
+   }
+  },
+  {
+   "id": "6662a258cbed735959eb6d81",
+   "type": "commentCard",
+   "date": "2024-06-07T06:02:00.000Z",
+   "idMemberCreator": "5c2a9f70782a3aaf6421a739",
+   "data": {
+    "card": {
+     "id": "651a6cc82766970154208143",
+     "name": "Kassation"
+    },
+    "text": "2024-05: 0,89 %"
+   }
+  },
+  {
+   "id": "6639dddca4ee74a51cc82aa9",
+   "type": "commentCard",
+   "date": "2024-05-07T07:53:00.000Z",
+   "idMemberCreator": "5c2a9f70f7870e0c8e065f70",
+   "data": {
+    "card": {
+     "id": "651a6cc8a011f2fec9c53b48",
+     "name": "OEE laser"
+    },
+    "text": "2024-04: 74,1 %"
+   }
+  },
+  {
+   "id": "6639d5a8750d45498ada1282",
+   "type": "commentCard",
+   "date": "2024-05-07T07:18:00.000Z",
+   "idMemberCreator": "5c2a9f70782a3aaf6421a739",
+   "data": {
+    "card": {
+     "id": "651a6cc83814907cfcba44ae",
+     "name": "Leveringspræcision"
+    },
+    "text": "2024-04: 68,4 %"
+   }
+  },
+  {
+   "id": "6639cedcea1d48cd1a2925d7",
+   "type": "commentCard",
+   "date": "2024-05-07T06:49:00.000Z",
+   "idMemberCreator": "5c2a9f70782a3aaf6421a739",
+   "data": {
+    "card": {
+     "id": "651a6cc8062c870b4977f727",
+     "name": "Sygefravær"
+    },
+    "text": "2024-04: 3,3 %"
+   }
+  },
+  {
+   "id": "6639ce280ca4ebde73a43ab5",
+   "type": "commentCard",
+   "date": "2024-05-07T06:46:00.000Z",
+   "idMemberCreator": "5c2a9f70782a3aaf6421a739",
+   "data": {
+    "card": {
+     "id": "651a6cc8b9b395a9bc477571",
+     "name": "DSO"
+    },
+    "text": "2024-04: 50 dage"
+   }
+  },
+  {
+   "id": "6639c9b475a684807d27b2be",
+   "type": "commentCard",
+   "date": "2024-05-07T06:27:00.000Z",
+   "idMemberCreator": "5c2a9f70782a3aaf6421a739",
+   "data": {
+    "card": {
+     "id": "651a6cc82766970154208143",
+     "name": "Kassation"
+    },
+    "text": "2024-04: 0,88 %"
+   }
+  },
+  {
+   "id": "6639c57c70682f8105f70baf",
+   "type": "commentCard",
+   "date": "2024-05-07T06:09:00.000Z",
+   "idMemberCreator": "5c2a9f70782a3aaf6421a739",
+   "data": {
+    "card": {
+     "id": "651a6cc8e06e4b2b81a52eb9",
+     "name": "Kundereklamationer"
+    },
+    "text": "2024-04: 5 stk,"
+   }
+  },
+  {
+   "id": "6613a16c91bc0aeedae9ce7a",
+   "type": "commentCard",
+   "date": "2024-04-08T07:49:00.000Z",
+   "idMemberCreator": "5c2a9f70f7870e0c8e065f70",
+   "data": {
+    "card": {
+     "id": "651a6cc8a011f2fec9c53b48",
+     "name": "OEE laser"
+    },
+    "text": "2024-03: 76,8 %"
+   }
+  },
+  {
+   "id": "66139c44ee7addb4cf3502ba",
+   "type": "commentCard",
+   "date": "2024-04-08T07:27:00.000Z",
+   "idMemberCreator": "5c2a9f70782a3aaf6421a739",
+   "data": {
+    "card": {
+     "id": "651a6cc8e06e4b2b81a52eb9",
+     "name": "Kundereklamationer"
+    },
+    "text": "2024-03: 9 stk,"
+   }
+  },
+  {
+   "id": "66139b187b0851b9804a66be",
+   "type": "commentCard",
+   "date": "2024-04-08T07:22:00.000Z",
+   "idMemberCreator": "5c2a9f70782a3aaf6421a739",
+   "data": {
+    "card": {
+     "id": "651a6cc83814907cfcba44ae",
+     "name": "Leveringspræcision"
+    },
+    "text": "2024-03: 70,1 %"
+   }
+  },
+  {
+   "id": "66139410cbf83163cd97d0c3",
+   "type": "commentCard",
+   "date": "2024-04-08T06:52:00.000Z",
+   "idMemberCreator": "5c2a9f70782a3aaf6421a739",
+   "data": {
+    "card": {
+     "id": "651a6cc8062c870b4977f727",
+     "name": "Sygefravær"
+    },
+    "text": "2024-03: 3,0 %"
+   }
+  },
+  {
+   "id": "66139014a846218d1742934c",
+   "type": "commentCard",
+   "date": "2024-04-08T06:35:00.000Z",
+   "idMemberCreator": "5c2a9f70782a3aaf6421a739",
+   "data": {
+    "card": {
+     "id": "651a6cc82766970154208143",
+     "name": "Kassation"
+    },
+    "text": "2024-03: 0,83 %"
+   }
+  },
+  {
+   "id": "661388d0c9062f550205b70c",
+   "type": "commentCard",
+   "date": "2024-04-08T06:04:00.000Z",
+   "idMemberCreator": "5c2a9f70782a3aaf6421a739",
+   "data": {
+    "card": {
+     "id": "651a6cc8b9b395a9bc477571",
+     "name": "DSO"
+    },
+    "text": "2024-03: 38 dage"
+   }
+  },
+  {
+   "id": "65e976d0bcf46c095682b1ab",
+   "type": "commentCard",
+   "date": "2024-03-07T08:12:00.000Z",
+   "idMemberCreator": "5c2a9f70f7870e0c8e065f70",
+   "data": {
+    "card": {
+     "id": "651a6cc8a011f2fec9c53b48",
+     "name": "OEE laser"
+    },
+    "text": "2024-02: 80,9 %"
+   }
+  },
+  {
+   "id": "65e974f0aefac082b4682b65",
+   "type": "commentCard",
+   "date": "2024-03-07T08:04:00.000Z",
+   "idMemberCreator": "5c2a9f70782a3aaf6421a739",
+   "data": {
+    "card": {
+     "id": "651a6cc8e06e4b2b81a52eb9",
+     "name": "Kundereklamationer"
+    },
+    "text": "2024-02: 17 stk,"
+   }
+  },
+  {
+   "id": "65e9729838d176913fa9f0e4",
+   "type": "commentCard",
+   "date": "2024-03-07T07:54:00.000Z",
+   "idMemberCreator": "5c2a9f70782a3aaf6421a739",
+   "data": {
+    "card": {
+     "id": "651a6cc83814907cfcba44ae",
+     "name": "Leveringspræcision"
+    },
+    "text": "2024-02: 85,4 %"
+   }
+  },
+  {
+   "id": "65e96bccf76db35a892f8ed5",
+   "type": "commentCard",
+   "date": "2024-03-07T07:25:00.000Z",
+   "idMemberCreator": "5c2a9f70782a3aaf6421a739",
+   "data": {
+    "card": {
+     "id": "651a6cc82766970154208143",
+     "name": "Kassation"
+    },
+    "text": "2024-02: 0,92 %"
+   }
+  },
+  {
+   "id": "65e96a6437fd2140a0417bdf",
+   "type": "commentCard",
+   "date": "2024-03-07T07:19:00.000Z",
+   "idMemberCreator": "5c2a9f70782a3aaf6421a739",
+   "data": {
+    "card": {
+     "id": "651a6cc8b9b395a9bc477571",
+     "name": "DSO"
+    },
+    "text": "2024-02: 52 dage"
+   }
+  },
+  {
+   "id": "65e96758d8809751a542aba8",
+   "type": "commentCard",
+   "date": "2024-03-07T07:06:00.000Z",
+   "idMemberCreator": "5c2a9f70782a3aaf6421a739",
+   "data": {
+    "card": {
+     "id": "651a6cc8062c870b4977f727",
+     "name": "Sygefravær"
+    },
+    "text": "2024-02: 5,9 %"
+   }
+  },
+  {
+   "id": "65c345a092911501f0ace42e",
+   "type": "commentCard",
+   "date": "2024-02-07T08:56:00.000Z",
+   "idMemberCreator": "5c2a9f70782a3aaf6421a739",
+   "data": {
+    "card": {
+     "id": "651a6cc8b9b395a9bc477571",
+     "name": "DSO"
+    },
+    "text": "2024-01: 46 dage"
+   }
+  },
+  {
+   "id": "65c343fc9a2932f84f7097d7",
+   "type": "commentCard",
+   "date": "2024-02-07T08:49:00.000Z",
+   "idMemberCreator": "5c2a9f70782a3aaf6421a739",
+   "data": {
+    "card": {
+     "id": "651a6cc8e06e4b2b81a52eb9",
+     "name": "Kundereklamationer"
+    },
+    "text": "2024-01: 9 stk,"
+   }
+  },
+  {
+   "id": "65c33b14750648d8dc82d976",
+   "type": "commentCard",
+   "date": "2024-02-07T08:11:00.000Z",
+   "idMemberCreator": "5c2a9f70782a3aaf6421a739",
+   "data": {
+    "card": {
+     "id": "651a6cc8062c870b4977f727",
+     "name": "Sygefravær"
+    },
+    "text": "2024-01: 4,9 %"
+   }
+  },
+  {
+   "id": "65c339e8d0d24dbdd72a094d",
+   "type": "commentCard",
+   "date": "2024-02-07T08:06:00.000Z",
+   "idMemberCreator": "5c2a9f70782a3aaf6421a739",
+   "data": {
+    "card": {
+     "id": "651a6cc82766970154208143",
+     "name": "Kassation"
+    },
+    "text": "2024-01: 0,84 %"
+   }
+  },
+  {
+   "id": "65c33448f8a0e052758fdc60",
+   "type": "commentCard",
+   "date": "2024-02-07T07:42:00.000Z",
+   "idMemberCreator": "5c2a9f70f7870e0c8e065f70",
+   "data": {
+    "card": {
+     "id": "651a6cc8a011f2fec9c53b48",
+     "name": "OEE laser"
+    },
+    "text": "2024-01: 74,8 %"
+   }
+  },
+  {
+   "id": "65c32db8d5233d162c96ee15",
+   "type": "commentCard",
+   "date": "2024-02-07T07:14:00.000Z",
+   "idMemberCreator": "5c2a9f70782a3aaf6421a739",
+   "data": {
+    "card": {
+     "id": "651a6cc83814907cfcba44ae",
+     "name": "Leveringspræcision"
+    },
+    "text": "2024-01: 86,6 %"
+   }
+  },
+  {
+   "id": "659bb6487b6db9ce0633e22c",
+   "type": "commentCard",
+   "date": "2024-01-08T08:46:00.000Z",
+   "idMemberCreator": "5c2a9f70f7870e0c8e065f70",
+   "data": {
+    "card": {
+     "id": "651a6cc8a011f2fec9c53b48",
+     "name": "OEE laser"
+    },
+    "text": "2023-12: 75,1 %"
+   }
+  },
+  {
+   "id": "659bb4e0f2f89729a64e80a3",
+   "type": "commentCard",
+   "date": "2024-01-08T08:40:00.000Z",
+   "idMemberCreator": "5c2a9f70782a3aaf6421a739",
+   "data": {
+    "card": {
+     "id": "651a6cc83814907cfcba44ae",
+     "name": "Leveringspræcision"
+    },
+    "text": "2023-12: 86,2 %"
+   }
+  },
+  {
+   "id": "659ba8eca268c6d7d8494b5a",
+   "type": "commentCard",
+   "date": "2024-01-08T07:49:00.000Z",
+   "idMemberCreator": "5c2a9f70782a3aaf6421a739",
+   "data": {
+    "card": {
+     "id": "651a6cc8062c870b4977f727",
+     "name": "Sygefravær"
+    },
+    "text": "2023-12: 2,7 %"
+   }
+  },
+  {
+   "id": "659ba5a48329647ef1613b00",
+   "type": "commentCard",
+   "date": "2024-01-08T07:35:00.000Z",
+   "idMemberCreator": "5c2a9f70782a3aaf6421a739",
+   "data": {
+    "card": {
+     "id": "651a6cc8b9b395a9bc477571",
+     "name": "DSO"
+    },
+    "text": "2023-12: 43 dage"
+   }
+  },
+  {
+   "id": "659ba16c3f60d56ef46ba85d",
+   "type": "commentCard",
+   "date": "2024-01-08T07:17:00.000Z",
+   "idMemberCreator": "5c2a9f70782a3aaf6421a739",
+   "data": {
+    "card": {
+     "id": "651a6cc82766970154208143",
+     "name": "Kassation"
+    },
+    "text": "2023-12: 0,88 %"
+   }
+  },
+  {
+   "id": "659b9e9cb4d2ae1e30568ac9",
+   "type": "commentCard",
+   "date": "2024-01-08T07:05:00.000Z",
+   "idMemberCreator": "5c2a9f70782a3aaf6421a739",
+   "data": {
+    "card": {
+     "id": "651a6cc8e06e4b2b81a52eb9",
+     "name": "Kundereklamationer"
+    },
+    "text": "2023-12: 10 stk,"
+   }
+  },
+  {
+   "id": "657188dced4f5853e755e841",
+   "type": "commentCard",
+   "date": "2023-12-07T08:57:00.000Z",
+   "idMemberCreator": "5c2a9f70f7870e0c8e065f70",
+   "data": {
+    "card": {
+     "id": "651a6cc8a011f2fec9c53b48",
+     "name": "OEE laser"
+    },
+    "text": "2023-11: 78,3 %"
+   }
+  },
+  {
+   "id": "657184683979eb27eabd68e9",
+   "type": "commentCard",
+   "date": "2023-12-07T08:38:00.000Z",
+   "idMemberCreator": "5c2a9f70782a3aaf6421a739",
+   "data": {
+    "card": {
+     "id": "651a6cc8062c870b4977f727",
+     "name": "Sygefravær"
+    },
+    "text": "2023-11: 5,6 %"
+   }
+  },
+  {
+   "id": "65717b803a6d7c641f81745d",
+   "type": "commentCard",
+   "date": "2023-12-07T08:00:00.000Z",
+   "idMemberCreator": "5c2a9f70782a3aaf6421a739",
+   "data": {
+    "card": {
+     "id": "651a6cc83814907cfcba44ae",
+     "name": "Leveringspræcision"
+    },
+    "text": "2023-11: 86,8 %"
+   }
+  },
+  {
+   "id": "65717a1835e15c9bbb04b3a6",
+   "type": "commentCard",
+   "date": "2023-12-07T07:54:00.000Z",
+   "idMemberCreator": "5c2a9f70782a3aaf6421a739",
+   "data": {
+    "card": {
+     "id": "651a6cc82766970154208143",
+     "name": "Kassation"
+    },
+    "text": "2023-11: 0,81 %"
+   }
+  },
+  {
+   "id": "657177484c4078067904ce7f",
+   "type": "commentCard",
+   "date": "2023-12-07T07:42:00.000Z",
+   "idMemberCreator": "5c2a9f70782a3aaf6421a739",
+   "data": {
+    "card": {
+     "id": "651a6cc8b9b395a9bc477571",
+     "name": "DSO"
+    },
+    "text": "2023-11: 45 dage"
+   }
+  },
+  {
+   "id": "657173c4d50132bfb9706af5",
+   "type": "commentCard",
+   "date": "2023-12-07T07:27:00.000Z",
+   "idMemberCreator": "5c2a9f70782a3aaf6421a739",
+   "data": {
+    "card": {
+     "id": "651a6cc8e06e4b2b81a52eb9",
+     "name": "Kundereklamationer"
+    },
+    "text": "2023-11: 14 stk,"
+   }
+  },
+  {
+   "id": "6549fb64b244fddfccaea7a9",
+   "type": "commentCard",
+   "date": "2023-11-07T08:55:00.000Z",
+   "idMemberCreator": "5c2a9f70782a3aaf6421a739",
+   "data": {
+    "card": {
+     "id": "651a6cc82766970154208143",
+     "name": "Kassation"
+    },
+    "text": "2023-10: 0,78 %"
+   }
+  },
+  {
+   "id": "6549f63c1f8a77d2e32bac98",
+   "type": "commentCard",
+   "date": "2023-11-07T08:33:00.000Z",
+   "idMemberCreator": "5c2a9f70782a3aaf6421a739",
+   "data": {
+    "card": {
+     "id": "651a6cc83814907cfcba44ae",
+     "name": "Leveringspræcision"
+    },
+    "text": "2023-10: 87,2 %"
+   }
+  },
+  {
+   "id": "6549ee08edaeaa2b8362434f",
+   "type": "commentCard",
+   "date": "2023-11-07T07:58:00.000Z",
+   "idMemberCreator": "5c2a9f70782a3aaf6421a739",
+   "data": {
+    "card": {
+     "id": "651a6cc8062c870b4977f727",
+     "name": "Sygefravær"
+    },
+    "text": "2023-10: 3,7 %"
+   }
+  },
+  {
+   "id": "6549e8685a13d811157bc23b",
+   "type": "commentCard",
+   "date": "2023-11-07T07:34:00.000Z",
+   "idMemberCreator": "5c2a9f70782a3aaf6421a739",
+   "data": {
+    "card": {
+     "id": "651a6cc8e06e4b2b81a52eb9",
+     "name": "Kundereklamationer"
+    },
+    "text": "2023-10: 10 stk,"
+   }
+  },
+  {
+   "id": "6549e0e8baefea337314053b",
+   "type": "commentCard",
+   "date": "2023-11-07T07:02:00.000Z",
+   "idMemberCreator": "5c2a9f70f7870e0c8e065f70",
+   "data": {
+    "card": {
+     "id": "651a6cc8a011f2fec9c53b48",
+     "name": "OEE laser"
+    },
+    "text": "2023-10: 77,8 %"
+   }
+  },
+  {
+   "id": "6549e0e8d5514a7509fbde17",
+   "type": "commentCard",
+   "date": "2023-11-07T07:02:00.000Z",
+   "idMemberCreator": "5c2a9f70782a3aaf6421a739",
+   "data": {
+    "card": {
+     "id": "651a6cc8b9b395a9bc477571",
+     "name": "DSO"
+    },
+    "text": "2023-10: 46 dage"
+   }
+  },
+  {
+   "id": "651fbe44cd69282d50e2a0bc",
+   "type": "commentCard",
+   "date": "2023-10-06T07:59:00.000Z",
+   "idMemberCreator": "5c2a9f70782a3aaf6421a739",
+   "data": {
+    "card": {
+     "id": "651a6cc83814907cfcba44ae",
+     "name": "Leveringspræcision"
+    },
+    "text": "2023-09: 85,4 %"
+   }
+  },
+  {
+   "id": "651fb9947981f20722a0ab05",
+   "type": "commentCard",
+   "date": "2023-10-06T07:39:00.000Z",
+   "idMemberCreator": "5c2a9f70f7870e0c8e065f70",
+   "data": {
+    "card": {
+     "id": "651a6cc8a011f2fec9c53b48",
+     "name": "OEE laser"
+    },
+    "text": "2023-09: 80,4 %"
+   }
+  },
+  {
+   "id": "651fb9589adb9a3a3700c1fb",
+   "type": "commentCard",
+   "date": "2023-10-06T07:38:00.000Z",
+   "idMemberCreator": "5c2a9f70782a3aaf6421a739",
+   "data": {
+    "card": {
+     "id": "651a6cc8b9b395a9bc477571",
+     "name": "DSO"
+    },
+    "text": "2023-09: 56 dage"
+   }
+  },
+  {
+   "id": "651fabc08216c3eeed8f268a",
+   "type": "commentCard",
+   "date": "2023-10-06T06:40:00.000Z",
+   "idMemberCreator": "5c2a9f70782a3aaf6421a739",
+   "data": {
+    "card": {
+     "id": "651a6cc8e06e4b2b81a52eb9",
+     "name": "Kundereklamationer"
+    },
+    "text": "2023-09: 10 stk,"
+   }
+  },
+  {
+   "id": "651faa1c11f872f87dc5ae7e",
+   "type": "commentCard",
+   "date": "2023-10-06T06:33:00.000Z",
+   "idMemberCreator": "5c2a9f70782a3aaf6421a739",
+   "data": {
+    "card": {
+     "id": "651a6cc8062c870b4977f727",
+     "name": "Sygefravær"
+    },
+    "text": "2023-09: 5,0 %"
+   }
+  },
+  {
+   "id": "651fa74cb45d910e97ed229e",
+   "type": "commentCard",
+   "date": "2023-10-06T06:21:00.000Z",
+   "idMemberCreator": "5c2a9f70782a3aaf6421a739",
+   "data": {
+    "card": {
+     "id": "651a6cc82766970154208143",
+     "name": "Kassation"
+    },
+    "text": "2023-09: 0,84 %"
+   }
+  },
+  {
+   "id": "651a6cc8e73719a8e693f306",
+   "type": "createCard",
+   "date": "2023-10-02T07:10:00.000Z",
+   "idMemberCreator": "5c2a9f70782a3aaf6421a739",
+   "data": {
+    "card": {
+     "id": "651a6cc83814907cfcba44ae",
+     "name": "Leveringspræcision"
+    },
+    "list": {
+     "name": "KPI'er"
+    }
+   }
+  },
+  {
+   "id": "651a6cc80099571e4398bb64",
+   "type": "createCard",
+   "date": "2023-10-02T07:10:00.000Z",
+   "idMemberCreator": "5c2a9f70782a3aaf6421a739",
+   "data": {
+    "card": {
+     "id": "651a6cc8e06e4b2b81a52eb9",
+     "name": "Kundereklamationer"
+    },
+    "list": {
+     "name": "KPI'er"
+    }
+   }
+  },
+  {
+   "id": "651a6cc88dab2fa5109e5b1c",
+   "type": "createCard",
+   "date": "2023-10-02T07:10:00.000Z",
+   "idMemberCreator": "5c2a9f70782a3aaf6421a739",
+   "data": {
+    "card": {
+     "id": "651a6cc82766970154208143",
+     "name": "Kassation"
+    },
+    "list": {
+     "name": "KPI'er"
+    }
+   }
+  },
+  {
+   "id": "651a6cc82c938918e3f4a2fb",
+   "type": "createCard",
+   "date": "2023-10-02T07:10:00.000Z",
+   "idMemberCreator": "5c2a9f70782a3aaf6421a739",
+   "data": {
+    "card": {
+     "id": "651a6cc8a011f2fec9c53b48",
+     "name": "OEE laser"
+    },
+    "list": {
+     "name": "KPI'er"
+    }
+   }
+  },
+  {
+   "id": "651a6cc8b7e1e0c551dfe911",
+   "type": "createCard",
+   "date": "2023-10-02T07:10:00.000Z",
+   "idMemberCreator": "5c2a9f70782a3aaf6421a739",
+   "data": {
+    "card": {
+     "id": "651a6cc8062c870b4977f727",
+     "name": "Sygefravær"
+    },
+    "list": {
+     "name": "KPI'er"
+    }
+   }
+  },
+  {
+   "id": "651a6cc8807e02482c16ca1c",
+   "type": "createCard",
+   "date": "2023-10-02T07:10:00.000Z",
+   "idMemberCreator": "5c2a9f70782a3aaf6421a739",
+   "data": {
+    "card": {
+     "id": "651a6cc8b9b395a9bc477571",
+     "name": "DSO"
+    },
+    "list": {
+     "name": "KPI'er"
+    }
+   }
+  },
+  {
+   "id": "64f97d24fe2e200f19967433",
+   "type": "commentCard",
+   "date": "2023-09-07T07:35:00.000Z",
+   "idMemberCreator": "5c2a9f70782a3aaf6421a739",
+   "data": {
+    "card": {
+     "id": "651a6cc82766970154208143",
+     "name": "Kassation"
+    },
+    "text": "2023-08: 0,89 %"
+   }
+  },
+  {
+   "id": "64f974003e0278989dee3b69",
+   "type": "commentCard",
+   "date": "2023-09-07T06:56:00.000Z",
+   "idMemberCreator": "5c2a9f70782a3aaf6421a739",
+   "data": {
+    "card": {
+     "id": "651a6cc8b9b395a9bc477571",
+     "name": "DSO"
+    },
+    "text": "2023-08: 43 dage"
+   }
+  },
+  {
+   "id": "64f973c48699d5f34b83dc90",
+   "type": "commentCard",
+   "date": "2023-09-07T06:55:00.000Z",
+   "idMemberCreator": "5c2a9f70782a3aaf6421a739",
+   "data": {
+    "card": {
+     "id": "651a6cc8e06e4b2b81a52eb9",
+     "name": "Kundereklamationer"
+    },
+    "text": "2023-08: 15 stk,"
+   }
+  },
+  {
+   "id": "64f970b87ec3cf4a969427f1",
+   "type": "commentCard",
+   "date": "2023-09-07T06:42:00.000Z",
+   "idMemberCreator": "5c2a9f70782a3aaf6421a739",
+   "data": {
+    "card": {
+     "id": "651a6cc83814907cfcba44ae",
+     "name": "Leveringspræcision"
+    },
+    "text": "2023-08: 86,9 %"
+   }
+  },
+  {
+   "id": "64f96adc120b3581ff7bc504",
+   "type": "commentCard",
+   "date": "2023-09-07T06:17:00.000Z",
+   "idMemberCreator": "5c2a9f70782a3aaf6421a739",
+   "data": {
+    "card": {
+     "id": "651a6cc8062c870b4977f727",
+     "name": "Sygefravær"
+    },
+    "text": "2023-08: 3,6 %"
+   }
+  },
+  {
+   "id": "64f9680cfe99112405e499de",
+   "type": "commentCard",
+   "date": "2023-09-07T06:05:00.000Z",
+   "idMemberCreator": "5c2a9f70f7870e0c8e065f70",
+   "data": {
+    "card": {
+     "id": "651a6cc8a011f2fec9c53b48",
+     "name": "OEE laser"
+    },
+    "text": "2023-08: 74,3 %"
+   }
+  },
+  {
+   "id": "64d0a0fc2ae1d41ef3b49281",
+   "type": "commentCard",
+   "date": "2023-08-07T07:45:00.000Z",
+   "idMemberCreator": "5c2a9f70782a3aaf6421a739",
+   "data": {
+    "card": {
+     "id": "651a6cc8062c870b4977f727",
+     "name": "Sygefravær"
+    },
+    "text": "2023-07: 0,2 %"
+   }
+  },
+  {
+   "id": "64d09df04f9f9b848a2f4103",
+   "type": "commentCard",
+   "date": "2023-08-07T07:32:00.000Z",
+   "idMemberCreator": "5c2a9f70782a3aaf6421a739",
+   "data": {
+    "card": {
+     "id": "651a6cc82766970154208143",
+     "name": "Kassation"
+    },
+    "text": "2023-07: 0,78 %"
+   }
+  },
+  {
+   "id": "64d095802298296d69fc9d66",
+   "type": "commentCard",
+   "date": "2023-08-07T06:56:00.000Z",
+   "idMemberCreator": "5c2a9f70f7870e0c8e065f70",
+   "data": {
+    "card": {
+     "id": "651a6cc8a011f2fec9c53b48",
+     "name": "OEE laser"
+    },
+    "text": "2023-07: 76,2 %"
+   }
+  },
+  {
+   "id": "64d0909409996270f0e04e53",
+   "type": "commentCard",
+   "date": "2023-08-07T06:35:00.000Z",
+   "idMemberCreator": "5c2a9f70782a3aaf6421a739",
+   "data": {
+    "card": {
+     "id": "651a6cc8e06e4b2b81a52eb9",
+     "name": "Kundereklamationer"
+    },
+    "text": "2023-07: 7 stk,"
+   }
+  },
+  {
+   "id": "64d08d880e4d25de565f3cac",
+   "type": "commentCard",
+   "date": "2023-08-07T06:22:00.000Z",
+   "idMemberCreator": "5c2a9f70782a3aaf6421a739",
+   "data": {
+    "card": {
+     "id": "651a6cc83814907cfcba44ae",
+     "name": "Leveringspræcision"
+    },
+    "text": "2023-07: 87,2 %"
+   }
+  },
+  {
+   "id": "64d08c5c944b7702f1745f20",
+   "type": "commentCard",
+   "date": "2023-08-07T06:17:00.000Z",
+   "idMemberCreator": "5c2a9f70782a3aaf6421a739",
+   "data": {
+    "card": {
+     "id": "651a6cc8b9b395a9bc477571",
+     "name": "DSO"
+    },
+    "text": "2023-07: 40 dage"
+   }
+  }
+ ]
+}

@@ -1,0 +1,759 @@
+{
+ "id": "645a46a0f611ae574e797f35",
+ "name": "Handlingsplan 2023",
+ "desc": "Opfølgning på krisemødet 8. maj 2023 (NordVind).",
+ "closed": false,
+ "dateLastActivity": "2023-10-20T13:26:00.000Z",
+ "members": [
+  {
+   "id": "5c2a9f702fd61e1be93cb104",
+   "username": "ahyi",
+   "fullName": "Ahmed Yilmaz"
+  },
+  {
+   "id": "5c2a9f70f7870e0c8e065f70",
+   "username": "cano",
+   "fullName": "Camilla Nørgaard"
+  },
+  {
+   "id": "5c2a9f70c32caae2e4129ecd",
+   "username": "helu",
+   "fullName": "Henrik Lund"
+  },
+  {
+   "id": "5c2a9f700477c7e9a80c0311",
+   "username": "jekj",
+   "fullName": "Jesper Kjær"
+  },
+  {
+   "id": "5c2a9f70782a3aaf6421a739",
+   "username": "meba",
+   "fullName": "Mette Baksgaard"
+  },
+  {
+   "id": "5c2a9f70f4c66da7d58af68b",
+   "username": "soth",
+   "fullName": "Sofie Thygesen"
+  }
+ ],
+ "lists": [
+  {
+   "id": "645a46a0c281428ba9ff010f",
+   "name": "Idéer",
+   "closed": false,
+   "pos": 16384
+  },
+  {
+   "id": "645a46a0cea90915c1d71158",
+   "name": "To do",
+   "closed": false,
+   "pos": 32768
+  },
+  {
+   "id": "645a46a05391ecbe1e982e54",
+   "name": "I gang",
+   "closed": false,
+   "pos": 49152
+  },
+  {
+   "id": "645a46a0e95791f1c60b6443",
+   "name": "Færdig",
+   "closed": false,
+   "pos": 65536
+  }
+ ],
+ "cards": [
+  {
+   "id": "645a4880113fbd5e675f83ef",
+   "name": "Opsøg 10 nye tyske kunder (messe + LinkedIn)",
+   "desc": "",
+   "idList": "645a46a0e95791f1c60b6443",
+   "due": "2023-09-30T15:00:00.000Z",
+   "dueComplete": true,
+   "closed": false,
+   "dateLastActivity": "2023-10-02T13:39:00.000Z",
+   "idMembers": [
+    "5c2a9f702fd61e1be93cb104",
+    "5c2a9f70782a3aaf6421a739"
+   ],
+   "labels": [],
+   "idBoard": "645a46a0f611ae574e797f35"
+  },
+  {
+   "id": "645a48bcc47a432f619bc68a",
+   "name": "Afklar NordVind-emner på lager – sælg eller nedskriv",
+   "desc": "",
+   "idList": "645a46a0e95791f1c60b6443",
+   "due": "2023-06-30T15:00:00.000Z",
+   "dueComplete": true,
+   "closed": false,
+   "dateLastActivity": "2023-06-29T13:48:00.000Z",
+   "idMembers": [
+    "5c2a9f70c32caae2e4129ecd",
+    "5c2a9f70782a3aaf6421a739"
+   ],
+   "labels": [],
+   "idBoard": "645a46a0f611ae574e797f35"
+  },
+  {
+   "id": "645a48f849855bd5ca9b3040",
+   "name": "Stop overarbejde i svejsning og laser",
+   "desc": "",
+   "idList": "645a46a0e95791f1c60b6443",
+   "due": "2023-05-31T15:00:00.000Z",
+   "dueComplete": true,
+   "closed": false,
+   "dateLastActivity": "2023-06-01T13:34:00.000Z",
+   "idMembers": [
+    "5c2a9f700477c7e9a80c0311",
+    "5c2a9f70782a3aaf6421a739"
+   ],
+   "labels": [],
+   "idBoard": "645a46a0f611ae574e797f35"
+  },
+  {
+   "id": "645a4934f2372022a3f260d3",
+   "name": "Kapacitetsplan efter sommerferien",
+   "desc": "",
+   "idList": "645a46a0e95791f1c60b6443",
+   "due": "2023-08-15T15:00:00.000Z",
+   "dueComplete": true,
+   "closed": false,
+   "dateLastActivity": "2023-08-14T13:00:00.000Z",
+   "idMembers": [
+    "5c2a9f70f7870e0c8e065f70",
+    "5c2a9f70782a3aaf6421a739"
+   ],
+   "labels": [],
+   "idBoard": "645a46a0f611ae574e797f35"
+  },
+  {
+   "id": "645a4970fcdadd4a3db3369b",
+   "name": "Bemandingstilpasning – dialog med tillidsrepræsentant",
+   "desc": "",
+   "idList": "645a46a0e95791f1c60b6443",
+   "due": "2023-08-31T15:00:00.000Z",
+   "dueComplete": true,
+   "closed": false,
+   "dateLastActivity": "2023-09-01T13:18:00.000Z",
+   "idMembers": [
+    "5c2a9f70782a3aaf6421a739",
+    "5c2a9f70782a3aaf6421a739"
+   ],
+   "labels": [],
+   "idBoard": "645a46a0f611ae574e797f35"
+  },
+  {
+   "id": "645a49ac5353ff848c130b33",
+   "name": "Genforhandl energiaftale (udløber 30/9)",
+   "desc": "",
+   "idList": "645a46a0e95791f1c60b6443",
+   "due": "2023-09-15T15:00:00.000Z",
+   "dueComplete": true,
+   "closed": false,
+   "dateLastActivity": "2023-09-12T13:45:00.000Z",
+   "idMembers": [
+    "5c2a9f70c32caae2e4129ecd",
+    "5c2a9f70782a3aaf6421a739"
+   ],
+   "labels": [],
+   "idBoard": "645a46a0f611ae574e797f35"
+  },
+  {
+   "id": "645a49e84e6edcac4d52d004",
+   "name": "Indfør kvartalsvise KPI-møder",
+   "desc": "",
+   "idList": "645a46a0e95791f1c60b6443",
+   "due": "2023-10-01T15:00:00.000Z",
+   "dueComplete": true,
+   "closed": false,
+   "dateLastActivity": "2023-10-09T13:05:00.000Z",
+   "idMembers": [
+    "5c2a9f70782a3aaf6421a739",
+    "5c2a9f70782a3aaf6421a739"
+   ],
+   "labels": [],
+   "idBoard": "645a46a0f611ae574e797f35"
+  },
+  {
+   "id": "645a4a244fbcd08aaaddacb2",
+   "name": "Tilbudsproces: svartid max 3 dage",
+   "desc": "",
+   "idList": "645a46a05391ecbe1e982e54",
+   "due": "2023-09-01T15:00:00.000Z",
+   "dueComplete": false,
+   "closed": false,
+   "dateLastActivity": "2023-06-12T09:15:00.000Z",
+   "idMembers": [
+    "5c2a9f702fd61e1be93cb104",
+    "5c2a9f70782a3aaf6421a739"
+   ],
+   "labels": [],
+   "idBoard": "645a46a0f611ae574e797f35"
+  },
+  {
+   "id": "645a4a6014d5aa856d9a7794",
+   "name": "Undersøg nyt ERP-system",
+   "desc": "",
+   "idList": "645a46a0e95791f1c60b6443",
+   "due": "2023-10-31T15:00:00.000Z",
+   "dueComplete": true,
+   "closed": false,
+   "dateLastActivity": "2023-10-20T13:26:00.000Z",
+   "idMembers": [
+    "5c2a9f70f4c66da7d58af68b",
+    "5c2a9f70782a3aaf6421a739"
+   ],
+   "labels": [],
+   "idBoard": "645a46a0f611ae574e797f35"
+  }
+ ],
+ "checklists": [],
+ "actions": [
+  {
+   "id": "65327fe891fd7b2e03dd0d99",
+   "type": "updateCard",
+   "date": "2023-10-20T13:26:00.000Z",
+   "idMemberCreator": "5c2a9f70f4c66da7d58af68b",
+   "data": {
+    "card": {
+     "id": "645a4a6014d5aa856d9a7794",
+     "name": "Undersøg nyt ERP-system"
+    },
+    "listBefore": {
+     "name": "I gang"
+    },
+    "listAfter": {
+     "name": "Færdig"
+    }
+   }
+  },
+  {
+   "id": "653224444a407ff103a5366e",
+   "type": "commentCard",
+   "date": "2023-10-20T06:55:00.000Z",
+   "idMemberCreator": "5c2a9f70f4c66da7d58af68b",
+   "data": {
+    "card": {
+     "id": "645a4a6014d5aa856d9a7794",
+     "name": "Undersøg nyt ERP-system"
+    },
+    "text": "Færdig – se mail"
+   }
+  },
+  {
+   "id": "6523fa7c92b30a2e05b2d719",
+   "type": "updateCard",
+   "date": "2023-10-09T13:05:00.000Z",
+   "idMemberCreator": "5c2a9f70782a3aaf6421a739",
+   "data": {
+    "card": {
+     "id": "645a49e84e6edcac4d52d004",
+     "name": "Indfør kvartalsvise KPI-møder"
+    },
+    "listBefore": {
+     "name": "I gang"
+    },
+    "listAfter": {
+     "name": "Færdig"
+    }
+   }
+  },
+  {
+   "id": "6523d9344cd812b6f2a5762d",
+   "type": "commentCard",
+   "date": "2023-10-09T10:43:00.000Z",
+   "idMemberCreator": "5c2a9f70782a3aaf6421a739",
+   "data": {
+    "card": {
+     "id": "645a49e84e6edcac4d52d004",
+     "name": "Indfør kvartalsvise KPI-møder"
+    },
+    "text": "Færdig – se mail"
+   }
+  },
+  {
+   "id": "651ac7f46b1c89ad2f1e5645",
+   "type": "updateCard",
+   "date": "2023-10-02T13:39:00.000Z",
+   "idMemberCreator": "5c2a9f702fd61e1be93cb104",
+   "data": {
+    "card": {
+     "id": "645a4880113fbd5e675f83ef",
+     "name": "Opsøg 10 nye tyske kunder (messe + LinkedIn)"
+    },
+    "listBefore": {
+     "name": "I gang"
+    },
+    "listAfter": {
+     "name": "Færdig"
+    }
+   }
+  },
+  {
+   "id": "651aaaa8289b97ef8c63548c",
+   "type": "commentCard",
+   "date": "2023-10-02T11:34:00.000Z",
+   "idMemberCreator": "5c2a9f702fd61e1be93cb104",
+   "data": {
+    "card": {
+     "id": "645a4880113fbd5e675f83ef",
+     "name": "Opsøg 10 nye tyske kunder (messe + LinkedIn)"
+    },
+    "text": "Færdig – se mail"
+   }
+  },
+  {
+   "id": "65006b5c66314684a04cfca0",
+   "type": "updateCard",
+   "date": "2023-09-12T13:45:00.000Z",
+   "idMemberCreator": "5c2a9f70c32caae2e4129ecd",
+   "data": {
+    "card": {
+     "id": "645a49ac5353ff848c130b33",
+     "name": "Genforhandl energiaftale (udløber 30/9)"
+    },
+    "listBefore": {
+     "name": "I gang"
+    },
+    "listAfter": {
+     "name": "Færdig"
+    }
+   }
+  },
+  {
+   "id": "6500124cafc193f74505dbee",
+   "type": "commentCard",
+   "date": "2023-09-12T07:25:00.000Z",
+   "idMemberCreator": "5c2a9f70c32caae2e4129ecd",
+   "data": {
+    "card": {
+     "id": "645a49ac5353ff848c130b33",
+     "name": "Genforhandl energiaftale (udløber 30/9)"
+    },
+    "text": "Færdig – se mail"
+   }
+  },
+  {
+   "id": "64f1e488944110f25597ef1c",
+   "type": "updateCard",
+   "date": "2023-09-01T13:18:00.000Z",
+   "idMemberCreator": "5c2a9f70782a3aaf6421a739",
+   "data": {
+    "card": {
+     "id": "645a4970fcdadd4a3db3369b",
+     "name": "Bemandingstilpasning – dialog med tillidsrepræsentant"
+    },
+    "listBefore": {
+     "name": "I gang"
+    },
+    "listAfter": {
+     "name": "Færdig"
+    }
+   }
+  },
+  {
+   "id": "64f192807c0a3d5c18fd0bf3",
+   "type": "commentCard",
+   "date": "2023-09-01T07:28:00.000Z",
+   "idMemberCreator": "5c2a9f70782a3aaf6421a739",
+   "data": {
+    "card": {
+     "id": "645a4970fcdadd4a3db3369b",
+     "name": "Bemandingstilpasning – dialog med tillidsrepræsentant"
+    },
+    "text": "Færdig – se mail"
+   }
+  },
+  {
+   "id": "64da2550f41add12d5457456",
+   "type": "updateCard",
+   "date": "2023-08-14T13:00:00.000Z",
+   "idMemberCreator": "5c2a9f70f7870e0c8e065f70",
+   "data": {
+    "card": {
+     "id": "645a4934f2372022a3f260d3",
+     "name": "Kapacitetsplan efter sommerferien"
+    },
+    "listBefore": {
+     "name": "I gang"
+    },
+    "listAfter": {
+     "name": "Færdig"
+    }
+   }
+  },
+  {
+   "id": "64d9da8c6a3d76beee162a25",
+   "type": "commentCard",
+   "date": "2023-08-14T07:41:00.000Z",
+   "idMemberCreator": "5c2a9f70f7870e0c8e065f70",
+   "data": {
+    "card": {
+     "id": "645a4934f2372022a3f260d3",
+     "name": "Kapacitetsplan efter sommerferien"
+    },
+    "text": "Færdig – se mail"
+   }
+  },
+  {
+   "id": "649d8b901af49601095e99b5",
+   "type": "updateCard",
+   "date": "2023-06-29T13:48:00.000Z",
+   "idMemberCreator": "5c2a9f70c32caae2e4129ecd",
+   "data": {
+    "card": {
+     "id": "645a48bcc47a432f619bc68a",
+     "name": "Afklar NordVind-emner på lager – sælg eller nedskriv"
+    },
+    "listBefore": {
+     "name": "I gang"
+    },
+    "listAfter": {
+     "name": "Færdig"
+    }
+   }
+  },
+  {
+   "id": "649d385cc8cfe3d7856eede0",
+   "type": "commentCard",
+   "date": "2023-06-29T07:53:00.000Z",
+   "idMemberCreator": "5c2a9f70c32caae2e4129ecd",
+   "data": {
+    "card": {
+     "id": "645a48bcc47a432f619bc68a",
+     "name": "Afklar NordVind-emner på lager – sælg eller nedskriv"
+    },
+    "text": "Færdig – se mail"
+   }
+  },
+  {
+   "id": "6490392c384aa7c6cd707294",
+   "type": "updateCard",
+   "date": "2023-06-19T11:17:00.000Z",
+   "idMemberCreator": "5c2a9f70f7870e0c8e065f70",
+   "data": {
+    "card": {
+     "id": "645a4934f2372022a3f260d3",
+     "name": "Kapacitetsplan efter sommerferien"
+    },
+    "listBefore": {
+     "name": "To do"
+    },
+    "listAfter": {
+     "name": "I gang"
+    }
+   }
+  },
+  {
+   "id": "648ac140f938eb461757e720",
+   "type": "updateCard",
+   "date": "2023-06-15T07:44:00.000Z",
+   "idMemberCreator": "5c2a9f700477c7e9a80c0311",
+   "data": {
+    "card": {
+     "id": "645a48f849855bd5ca9b3040",
+     "name": "Stop overarbejde i svejsning og laser"
+    },
+    "listBefore": {
+     "name": "To do"
+    },
+    "listAfter": {
+     "name": "I gang"
+    }
+   }
+  },
+  {
+   "id": "6486e3043fc1482c7cd94934",
+   "type": "updateCard",
+   "date": "2023-06-12T09:19:00.000Z",
+   "idMemberCreator": "5c2a9f70f4c66da7d58af68b",
+   "data": {
+    "card": {
+     "id": "645a4a6014d5aa856d9a7794",
+     "name": "Undersøg nyt ERP-system"
+    },
+    "listBefore": {
+     "name": "To do"
+    },
+    "listAfter": {
+     "name": "I gang"
+    }
+   }
+  },
+  {
+   "id": "6486e2140d80a1c3d99bde84",
+   "type": "updateCard",
+   "date": "2023-06-12T09:15:00.000Z",
+   "idMemberCreator": "5c2a9f702fd61e1be93cb104",
+   "data": {
+    "card": {
+     "id": "645a4a244fbcd08aaaddacb2",
+     "name": "Tilbudsproces: svartid max 3 dage"
+    },
+    "listBefore": {
+     "name": "To do"
+    },
+    "listAfter": {
+     "name": "I gang"
+    }
+   }
+  },
+  {
+   "id": "6486c2e84e94a1646babaa1b",
+   "type": "updateCard",
+   "date": "2023-06-12T07:02:00.000Z",
+   "idMemberCreator": "5c2a9f702fd61e1be93cb104",
+   "data": {
+    "card": {
+     "id": "645a4880113fbd5e675f83ef",
+     "name": "Opsøg 10 nye tyske kunder (messe + LinkedIn)"
+    },
+    "listBefore": {
+     "name": "To do"
+    },
+    "listAfter": {
+     "name": "I gang"
+    }
+   }
+  },
+  {
+   "id": "647d98581465d3d0cdd6a11a",
+   "type": "updateCard",
+   "date": "2023-06-05T08:10:00.000Z",
+   "idMemberCreator": "5c2a9f70782a3aaf6421a739",
+   "data": {
+    "card": {
+     "id": "645a4970fcdadd4a3db3369b",
+     "name": "Bemandingstilpasning – dialog med tillidsrepræsentant"
+    },
+    "listBefore": {
+     "name": "To do"
+    },
+    "listAfter": {
+     "name": "I gang"
+    }
+   }
+  },
+  {
+   "id": "64789e48de42a0d714ccf14f",
+   "type": "updateCard",
+   "date": "2023-06-01T13:34:00.000Z",
+   "idMemberCreator": "5c2a9f700477c7e9a80c0311",
+   "data": {
+    "card": {
+     "id": "645a48f849855bd5ca9b3040",
+     "name": "Stop overarbejde i svejsning og laser"
+    },
+    "listBefore": {
+     "name": "I gang"
+    },
+    "listAfter": {
+     "name": "Færdig"
+    }
+   }
+  },
+  {
+   "id": "647884806bf7bd31d850ad27",
+   "type": "commentCard",
+   "date": "2023-06-01T11:44:00.000Z",
+   "idMemberCreator": "5c2a9f700477c7e9a80c0311",
+   "data": {
+    "card": {
+     "id": "645a48f849855bd5ca9b3040",
+     "name": "Stop overarbejde i svejsning og laser"
+    },
+    "text": "Færdig – se mail"
+   }
+  },
+  {
+   "id": "6470af6cd43dbfd7e1127831",
+   "type": "updateCard",
+   "date": "2023-05-26T13:09:00.000Z",
+   "idMemberCreator": "5c2a9f70c32caae2e4129ecd",
+   "data": {
+    "card": {
+     "id": "645a48bcc47a432f619bc68a",
+     "name": "Afklar NordVind-emner på lager – sælg eller nedskriv"
+    },
+    "listBefore": {
+     "name": "To do"
+    },
+    "listAfter": {
+     "name": "I gang"
+    }
+   }
+  },
+  {
+   "id": "64676880adad9c748f95f8a2",
+   "type": "updateCard",
+   "date": "2023-05-19T12:16:00.000Z",
+   "idMemberCreator": "5c2a9f70782a3aaf6421a739",
+   "data": {
+    "card": {
+     "id": "645a49e84e6edcac4d52d004",
+     "name": "Indfør kvartalsvise KPI-møder"
+    },
+    "listBefore": {
+     "name": "To do"
+    },
+    "listAfter": {
+     "name": "I gang"
+    }
+   }
+  },
+  {
+   "id": "64672dacf1a3c63e2abd15f4",
+   "type": "updateCard",
+   "date": "2023-05-19T08:05:00.000Z",
+   "idMemberCreator": "5c2a9f70c32caae2e4129ecd",
+   "data": {
+    "card": {
+     "id": "645a49ac5353ff848c130b33",
+     "name": "Genforhandl energiaftale (udløber 30/9)"
+    },
+    "listBefore": {
+     "name": "To do"
+    },
+    "listAfter": {
+     "name": "I gang"
+    }
+   }
+  },
+  {
+   "id": "645a4a60d23c1d41aa006fc3",
+   "type": "createCard",
+   "date": "2023-05-09T13:28:00.000Z",
+   "idMemberCreator": "5c2a9f70782a3aaf6421a739",
+   "data": {
+    "card": {
+     "id": "645a4a6014d5aa856d9a7794",
+     "name": "Undersøg nyt ERP-system"
+    },
+    "list": {
+     "name": "To do"
+    }
+   }
+  },
+  {
+   "id": "645a4a24d12da50e0783bdca",
+   "type": "createCard",
+   "date": "2023-05-09T13:27:00.000Z",
+   "idMemberCreator": "5c2a9f70782a3aaf6421a739",
+   "data": {
+    "card": {
+     "id": "645a4a244fbcd08aaaddacb2",
+     "name": "Tilbudsproces: svartid max 3 dage"
+    },
+    "list": {
+     "name": "To do"
+    }
+   }
+  },
+  {
+   "id": "645a49e8990c1e839839664e",
+   "type": "createCard",
+   "date": "2023-05-09T13:26:00.000Z",
+   "idMemberCreator": "5c2a9f70782a3aaf6421a739",
+   "data": {
+    "card": {
+     "id": "645a49e84e6edcac4d52d004",
+     "name": "Indfør kvartalsvise KPI-møder"
+    },
+    "list": {
+     "name": "To do"
+    }
+   }
+  },
+  {
+   "id": "645a49ac712ab31b4af33bf9",
+   "type": "createCard",
+   "date": "2023-05-09T13:25:00.000Z",
+   "idMemberCreator": "5c2a9f70782a3aaf6421a739",
+   "data": {
+    "card": {
+     "id": "645a49ac5353ff848c130b33",
+     "name": "Genforhandl energiaftale (udløber 30/9)"
+    },
+    "list": {
+     "name": "To do"
+    }
+   }
+  },
+  {
+   "id": "645a4970d6a4061d9a56938e",
+   "type": "createCard",
+   "date": "2023-05-09T13:24:00.000Z",
+   "idMemberCreator": "5c2a9f70782a3aaf6421a739",
+   "data": {
+    "card": {
+     "id": "645a4970fcdadd4a3db3369b",
+     "name": "Bemandingstilpasning – dialog med tillidsrepræsentant"
+    },
+    "list": {
+     "name": "To do"
+    }
+   }
+  },
+  {
+   "id": "645a4934edfb88d08f8438a1",
+   "type": "createCard",
+   "date": "2023-05-09T13:23:00.000Z",
+   "idMemberCreator": "5c2a9f70782a3aaf6421a739",
+   "data": {
+    "card": {
+     "id": "645a4934f2372022a3f260d3",
+     "name": "Kapacitetsplan efter sommerferien"
+    },
+    "list": {
+     "name": "To do"
+    }
+   }
+  },
+  {
+   "id": "645a48f82eed09ce00fa784d",
+   "type": "createCard",
+   "date": "2023-05-09T13:22:00.000Z",
+   "idMemberCreator": "5c2a9f70782a3aaf6421a739",
+   "data": {
+    "card": {
+     "id": "645a48f849855bd5ca9b3040",
+     "name": "Stop overarbejde i svejsning og laser"
+    },
+    "list": {
+     "name": "To do"
+    }
+   }
+  },
+  {
+   "id": "645a48bc7ea81f7d9d2e9a2c",
+   "type": "createCard",
+   "date": "2023-05-09T13:21:00.000Z",
+   "idMemberCreator": "5c2a9f70782a3aaf6421a739",
+   "data": {
+    "card": {
+     "id": "645a48bcc47a432f619bc68a",
+     "name": "Afklar NordVind-emner på lager – sælg eller nedskriv"
+    },
+    "list": {
+     "name": "To do"
+    }
+   }
+  },
+  {
+   "id": "645a4880f00d08a9590cafe2",
+   "type": "createCard",
+   "date": "2023-05-09T13:20:00.000Z",
+   "idMemberCreator": "5c2a9f70782a3aaf6421a739",
+   "data": {
+    "card": {
+     "id": "645a4880113fbd5e675f83ef",
+     "name": "Opsøg 10 nye tyske kunder (messe + LinkedIn)"
+    },
+    "list": {
+     "name": "To do"
+    }
+   }
+  }
+ ]
+}
